@@ -1,0 +1,91 @@
+body{
+  font-family: 'Cormorant Garamond', serif;
+  color: #333;
+}
+header{
+  background-color: #000;
+  color: #fff;
+  font-size: 45px;
+  padding: 50px 0px 50px 0px;
+}
+
+header a{
+  text-decoration: none;
+  color: #fff;
+}
+
+.main_photo{
+  width: 100%;
+}
+
+.post_from_index{
+  margin: 20px 0px;
+  border-bottom: 1px solid #ededed;
+  padding: 30px 0px;
+}
+
+.post_from_index h2{
+  font-family: 'Amatic SC', cursive;
+  font-size: 60px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.post_from_index a{
+  color: #333;
+  text-decoration: none;
+}
+.post_from_index a:hover{
+  border-bottom: 1px dashed #ccc;
+}
+
+.post_from_index .post_content{
+  font-size: 25px;
+}
+
+/************* SINGLE POST ****************/
+
+.single_post{
+  margin-top: 30px;
+}
+
+.single_post p{
+  font-size: 20px;
+}
+
+.single_post a{
+  color: #333;
+}
+
+.single_post a:hover{
+  text-decoration: none;
+}
+
+.single_post h1{
+  font-family: 'Amatic SC', cursive;
+  font-size: 50px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+#detail_photos{
+  padding: 20px 0px;
+}
+
+#detail_photos img{
+  width: 100%;
+  padding: 20px;
+}
+
+/************* FOOTER **********/
+footer{
+  font-size: 12px;
+  color: #ddd;
+  text-align: center;
+  border-top: 1px dashed #eee;
+  padding: 20px 0px;
+  margin-top: 20px;
+}
+
+footer a{
+  color: #ddd;
+}
