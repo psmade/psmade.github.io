@@ -1,17 +1,22 @@
 body{
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Libre Baskerville', serif;
   color: #333;
 }
 header{
   background-color: #000;
   color: #fff;
-  font-size: 45px;
   padding: 50px 0px 50px 0px;
+  font-family: 'Tinos', serif;
 }
 
 header a{
   text-decoration: none;
   color: #fff;
+  font-size: 65px;
+  letter-spacing: 8px;
+}
+header span{
+  font-size: 20px;
 }
 
 .main_photo{
@@ -25,8 +30,8 @@ header a{
 }
 
 .post_from_index h2{
-  font-family: 'Amatic SC', cursive;
-  font-size: 60px;
+  font-family:  'Oswald', sans-serif;
+  font-size: 33px;
   padding-top: 0px;
   margin-top: 0px;
 }
@@ -39,7 +44,7 @@ header a{
 }
 
 .post_from_index .post_content{
-  font-size: 25px;
+  font-size: 15px;
 }
 
 /************* SINGLE POST ****************/
@@ -49,7 +54,7 @@ header a{
 }
 
 .single_post p{
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .single_post a{
@@ -61,8 +66,8 @@ header a{
 }
 
 .single_post h1{
-  font-family: 'Amatic SC', cursive;
-  font-size: 50px;
+  font-family:  'Oswald', sans-serif;
+  font-size: 33px;
   padding-top: 0px;
   margin-top: 0px;
 }
