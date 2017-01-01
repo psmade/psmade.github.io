@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Veste basque
+hidden: true
 ---
 
 Je cherchais depuis longtemps comment utilise un tissu qui venait de chez sacré coupon: …. de couleur violette. Je n’avais jamais travaillé cette matière, et ne savait pas très bien quel pièce lui irait le mieux.

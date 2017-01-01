@@ -7,6 +7,7 @@ header{
   color: #fff;
   padding: 50px 0px 50px 0px;
   font-family: 'Tinos', serif;
+  text-align: center;
 }
 
 header a{
@@ -17,10 +18,17 @@ header a{
 }
 header span{
   font-size: 20px;
+  margin-left: -8px;
+}
+
+.main_photo_home{
+  width: 100%;
 }
 
 .main_photo{
-  width: 100%;
+  width: 50%;
+  float: left;
+  padding: 0px 20px 20px 0px;
 }
 
 .post_from_index{
@@ -35,6 +43,7 @@ header span{
   padding-top: 0px;
   margin-top: 0px;
 }
+
 .post_from_index a{
   color: #333;
   text-decoration: none;
@@ -55,10 +64,11 @@ header span{
 
 .single_post p{
   font-size: 15px;
+  line-height: 22px;
 }
 
 .single_post a{
-  color: #333;
+  color: #2b5aa5;
 }
 
 .single_post a:hover{
