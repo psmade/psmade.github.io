@@ -5,32 +5,34 @@ layout: default
 <div class="container posts">
   {% assign count = 0 %}
   {% for post in site.posts %}
-    {% assign count = count | plus: 1 %}
-    {% capture modulo %}{{ count | modulo:2 }}{% endcapture %}
-    <div class="row post_from_index">
+    {% unless post.hidden %}
+      {% assign count = count | plus: 1 %}
+      {% capture modulo %}{{ count | modulo:2 }}{% endcapture %}
+      <div class="row post_from_index">
 
-      {% capture photo %}
-          <img src="{{ BASE_PATH }}/assets/photos/{{ post.url }}/main.jpg" class="main_photo"/>
-      {% endcapture %}
+        {% capture photo %}
+            <img src="{{ BASE_PATH }}/assets/photos/{{ post.url }}/main.jpg" class="main_photo_home"/>
+        {% endcapture %}
 
-      {% capture text %}
-          <h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
-          <div class="post_content">
-            {{ post.content | split:'BREAK' | first }}
-            {% if post.content contains 'BREAK' %}
-              <a href="{{ BASE_PATH }}{{ post.url }}">Lire la suite...</a>
-            {% endif %}
-          </div>
-      {% endcapture %}
+        {% capture text %}
+            <h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
+            <div class="post_content">
+              {{ post.content | split:'BREAK' | first }}
+              {% if post.content contains 'BREAK' %}
+                <a href="{{ BASE_PATH }}{{ post.url }}">Lire la suite...</a>
+              {% endif %}
+            </div>
+        {% endcapture %}
 
-      {% if modulo == "1" %}
-        <div class="col-md-6">{{ photo }}</div>
-        <div class="col-md-6">{{ text }}</div>
-      {% else %}
-        <div class="col-md-6">{{ text }}</div>
-        <div class="col-md-6">{{ photo }}</div>
-      {% endif %}
+        {% if modulo == "1" %}
+          <div class="col-md-6">{{ photo }}</div>
+          <div class="col-md-6">{{ text }}</div>
+        {% else %}
+          <div class="col-md-6">{{ text }}</div>
+          <div class="col-md-6">{{ photo }}</div>
+        {% endif %}
 
-    </div>
+      </div>
+    {% endunless %}
   {% endfor %}
 </div>

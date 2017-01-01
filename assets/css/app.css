@@ -19,8 +19,14 @@ header span{
   font-size: 20px;
 }
 
-.main_photo{
+.main_photo_home{
   width: 100%;
+}
+
+.main_photo{
+  width: 50%;
+  float: left;
+  padding: 0px 20px 20px 0px;
 }
 
 .post_from_index{
@@ -35,6 +41,7 @@ header span{
   padding-top: 0px;
   margin-top: 0px;
 }
+
 .post_from_index a{
   color: #333;
   text-decoration: none;
@@ -55,6 +62,7 @@ header span{
 
 .single_post p{
   font-size: 15px;
+  line-height: 22px;
 }
 
 .single_post a{
