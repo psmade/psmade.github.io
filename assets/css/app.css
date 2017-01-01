@@ -7,6 +7,7 @@ header{
   color: #fff;
   padding: 50px 0px 50px 0px;
   font-family: 'Tinos', serif;
+  text-align: center;
 }
 
 header a{
@@ -17,6 +18,7 @@ header a{
 }
 header span{
   font-size: 20px;
+  margin-left: -8px;
 }
 
 .main_photo_home{
@@ -66,7 +68,7 @@ header span{
 }
 
 .single_post a{
-  color: #333;
+  color: #2b5aa5;
 }
 
 .single_post a:hover{
