@@ -1,0 +1,3 @@
+Pour envoyer les modifications:
+
+sh scripts/push.sh
