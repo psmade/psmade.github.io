@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Smoking Dress"
+hook: "Première participation à un concours, celui de Louis Antoinette Paris"
 ---
 
 Première participation à un concours, celui de Louis Antoinette Paris pour Hacklamode. Deuxième édition de ce concours et un réelle bonne idée : un patron de la collection en libre téléchargement pendant 1 mois, et autant de temps pour réaliser le modèle ou bien en créer un nouveau à partir de celui proposé : cette année le patron Imagine !
@@ -10,7 +11,7 @@ BREAK
 ## Modifications
 
 Assumer le dos nu en ne gardant que les côté de l’empiècement dos et en retaillant les épaules.
-Inversion de la jupe dos/devant : je trouve le pli creux plus élégant au dos . En conséquence inversion de la feutre de de vent à dos.  
+Inversion de la jupe dos/devant : je trouve le pli creux plus élégant au dos . En conséquence inversion de la feutre de de vent à dos.
 Impossible de me décider sur une ceinture à nouer au dos type noeud papillon : j’en ai réalisé une amovible.
 
 

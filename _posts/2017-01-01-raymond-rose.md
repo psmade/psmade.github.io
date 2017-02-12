@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Raymond en rose
+hook: Première commande chez République du chiffon
 ---
 
 Première commande chez République du chiffon, et les patrons y sont juste magnifiques! Pour ma première réalisation de cette marque, j’ai choisi Raymond, un grand manteau pour l’hiver.

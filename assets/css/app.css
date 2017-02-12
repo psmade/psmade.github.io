@@ -3,22 +3,21 @@ body{
   color: #333;
 }
 header{
-  background-color: #000;
-  color: #fff;
-  padding: 50px 0px 50px 0px;
+  border-top: 3px solid #333;
+  padding: 60px 0px 80px 0px;
   font-family: 'Tinos', serif;
   text-align: center;
 }
 
 header a{
   text-decoration: none;
-  color: #fff;
+  color: #333;
   font-size: 65px;
   letter-spacing: 8px;
 }
 header span{
-  font-size: 20px;
-  margin-left: -8px;
+  font-size: 25px;
+  letter-spacing: 8px;
 }
 
 .main_photo_home{
@@ -32,28 +31,43 @@ header span{
 }
 
 .post_from_index{
-  margin: 20px 0px;
-  border-bottom: 1px solid #ededed;
-  padding: 30px 0px;
+  display: block;
+  margin: 0px 0px 60px 0px;
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  height: 230px;
+  padding: 0px;
 }
 
+.post_preview{
+  padding: 60px 20px;
+}
+
+.bg_opaque{
+  background-color: rgba(0,0,0, 0.7);
+  height: 230px;
+  transition: background-color .5s ease-out;
+}
 .post_from_index h2{
-  font-family:  'Oswald', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 33px;
   padding-top: 0px;
   margin-top: 0px;
-}
-
-.post_from_index a{
-  color: #333;
+  color: #fff;
   text-decoration: none;
 }
-.post_from_index a:hover{
-  border-bottom: 1px dashed #ccc;
+.post_from_index:hover .bg_opaque{
+  background-color: rgba(0,0,0,0.4);
 }
 
 .post_from_index .post_content{
   font-size: 15px;
+  color: #fff;
 }
 
 /************* SINGLE POST ****************/
