@@ -3,21 +3,43 @@ body{
   color: #333;
 }
 header{
-  border-top: 3px solid #333;
-  padding: 60px 0px 80px 0px;
   font-family: 'Tinos', serif;
-  text-align: center;
 }
 
 header a{
   text-decoration: none;
   color: #333;
+}
+
+header.layout-home {
+  border-top: 3px solid #333;
+  text-align: center;
+  padding: 60px 0px 80px 0px;
+}
+
+header.layout-home a{
   font-size: 65px;
   letter-spacing: 8px;
 }
-header span{
+header.layout-home span{
   font-size: 25px;
   letter-spacing: 8px;
+}
+
+header.layout-post{
+  padding: 15px 0px 15px 0px;
+  background: rgba(20,20,20,1);
+  background: -moz-linear-gradient(left, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(20,20,20,1)), color-stop(51%, rgba(48,48,48,1)), color-stop(66%, rgba(56,56,56,1)), color-stop(100%, rgba(36,36,36,1)));
+  background: -webkit-linear-gradient(left, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
+  background: -o-linear-gradient(left, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
+  background: -ms-linear-gradient(left, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
+  background: linear-gradient(to right, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#141414', endColorstr='#242424', GradientType=1 );
+}
+header.layout-post a{
+  color: #fff;
+
 }
 
 .main_photo_home{
@@ -25,9 +47,7 @@ header span{
 }
 
 .main_photo{
-  width: 50%;
-  float: left;
-  padding: 0px 20px 20px 0px;
+  width: 100%;
 }
 
 .post_from_index{
@@ -91,9 +111,10 @@ header span{
 
 .single_post h1{
   font-family:  'Oswald', sans-serif;
-  font-size: 33px;
-  padding-top: 0px;
+  font-size: 40px;
+  padding: 50px 0px 60px 0px;
   margin-top: 0px;
+  text-align: center;
 }
 
 #detail_photos{
