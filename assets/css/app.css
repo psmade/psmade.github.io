@@ -148,3 +148,15 @@ footer{
 footer a{
   color: #ddd;
 }
+
+/************************ MOBILE LAYOUT *********************/
+@media all and (max-width: 500px) {
+
+  .post_from_index{
+    height: 300px;
+  }
+
+  .bg_opaque{
+    height: 300px;
+  }
+}
