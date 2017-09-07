@@ -21,4 +21,5 @@ En entreprenant des modifications, j’en ai profité pour ajouter des cm aux do
 
 ## Fabric
 
-Un étonnant jersey crème gaufré (enfin j’imagine). Aucune idée de comment ces chevrons sont réalisés sur le tissu mais il est très confortable et super original. Tissu très facile à couper, et le jersey m’a permis de découvrir encore une nouvelle fonctionnalité de ma machine : le point Stretch Stitch. Disponible sur ma machine (Janome Easy Jean) elle permet de réaliser des points extensibles : consommateur de fil, oui, mais parfait pour un vêtement en jersey.
+Un étonnant jersey crème gaufré (enfin j’imagine). Aucune idée de comment ces chevrons sont réalisés sur le tissu mais il est très confortable et super original. Tissu très facile à couper, et le jersey m’a permis de découvrir encore une nouvelle fonctionnalité de ma machine : le point Stretch Stitch. Disponible sur ma machine ([Janome Easy Jean](http://amzn.to/2eKIPQM)) elle permet de réaliser des points extensibles : consommateur de fil, oui, mais parfait pour un vêtement en jersey.
+

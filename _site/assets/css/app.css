@@ -45,6 +45,9 @@ header.layout-post a{
   max-width: 720px;
 }
 
+.container p, .container h2, .container h3, .container .single_photo{
+  padding: 10px;
+}
 #logo{
   width: 300px;
 }
@@ -67,17 +70,17 @@ header.layout-post a{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  height: 230px;
+  height: 260px;
   padding: 0px;
 }
 
 .post_preview{
-  padding: 60px 20px;
+  padding: 80px 30px;
 }
 
 .bg_opaque{
   background-color: rgba(0,0,0, 0.7);
-  height: 230px;
+  height: 260px;
   transition: background-color .5s ease-out;
 }
 .post_from_index h2{
@@ -124,13 +127,12 @@ header.layout-post a{
   text-align: center;
 }
 
-#detail_photos{
-  padding: 20px 0px;
+.single_photo{
+  margin-top: 20px;
 }
 
 #detail_photos img{
   width: 100%;
-  padding: 20px;
 }
 
 /************* FOOTER **********/

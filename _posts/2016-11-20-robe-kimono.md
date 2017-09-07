@@ -10,9 +10,11 @@ BREAK
 
 ## Pattern
 
-Le patron provient d’un livre “Dressing Chic” dans lequel plusieurs modèles sont vraiment top et très abordable en niveau débutant. Ce patron est simple mais avec un super résultat. Tout est bien pensé, de la ceinture cousue dans la taille, jusqu’aux discrètes coutures de côté qui permettent de ne pas dévoiler ses sous vêtements dès qu’on lève un bras. Bref mini temps passé pour un maxi résultat.
+Le patron provient d’un livre “[Dressing Chic][1]” dans lequel plusieurs modèles sont vraiment top et très abordable en niveau débutant. Ce patron est simple mais avec un super résultat. Tout est bien pensé, de la ceinture cousue dans la taille, jusqu’aux discrètes coutures de côté qui permettent de ne pas dévoiler ses sous vêtements dès qu’on lève un bras. Bref mini temps passé pour un maxi résultat.
 
 
 ## Fabric
 
 Le tissu est un polyester noir et blanc acheté à l’époque au magasin Reine, dans le XVIIIème. Un peu inquiète au début du tissu glissant, il s’est avéré au final très facile à travailler. Je réutiliserai sans aucun doute le patron avec un tissu type coton ou viscose pour une petite robe de tous les jours .
+
+[1]:	http://amzn.to/2xSmzwJ

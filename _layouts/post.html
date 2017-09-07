@@ -18,13 +18,13 @@ layout: default
 </div>
 
 <div id="detail_photos" class="container">
-  <div class="row">
-    {% for static_file in site.static_files %}
-        {% if static_file.path contains page.url %}
-          {% if static_file.path contains "detail" %}
+  {% for static_file in site.static_files %}
+      {% if static_file.path contains page.url %}
+        {% if static_file.path contains "detail" %}
+          <div class="row single_photo">
             <img src="{{ static_file.path }}" />
-          {% endif %}
+          </div>
         {% endif %}
-    {% endfor %}
-  </div>
+      {% endif %}
+  {% endfor %}
 </div>
