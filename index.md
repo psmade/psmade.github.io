@@ -1,4 +1,4 @@
 ---
 layout: home
-title: PSMade
+title: PSMade - Petit blog de couture
 ---

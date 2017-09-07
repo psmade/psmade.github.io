@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robe kimono
-hook: Une petite robe qui est un peu un petit kimono
+hook: Cette robe est l’une de mes premières réalisations...
 ---
 
 Cette robe est l’une de mes premières réalisations depuis que je me suis remise à la couture il y a quelques années. Elle a été la première d’une longue liste de réalisations et c’est pourquoi je trouvais important de la partager en premier. Elle m’a montrée de quoi j’étais capable et le résultat m’a encouragé à continuer.
