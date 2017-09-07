@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Haut encolure carrée"
+hidden: true
 ---
 
 Haut réalisé il y a quelques années déjà, selon un livre de patrons très sympathique : “Dressing chic, vêtements et accessoires”. Plusieurs modèles très sympas, dont cette marinière avec une encolure carrée très originale.

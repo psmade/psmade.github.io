@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Robe avec noeud"
+hidden: true
 ---
 
 Ce modèle de robe est réalisé grâce à un patron du livre “Dressing chic, vêtements et accessoires”. Le modèle a un esprit très sympathique : un peu sportswear et décontracté tout en ayant de détail sophistiqués comme le noeud au niveau de l’épaule.

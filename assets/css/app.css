@@ -39,7 +39,14 @@ header.layout-post{
 }
 header.layout-post a{
   color: #fff;
+}
 
+.container{
+  max-width: 720px;
+}
+
+#logo{
+  width: 300px;
 }
 
 .main_photo_home{

@@ -1,16 +1,18 @@
 ---
 layout: post
 title: Robe kimono
+hook: Une petite robe qui est un peu un petit kimono
 ---
 
-
-
-Encore un patron du livre “Dressing chic, vêtements et accessoires” : cette fois ci une robe façon kimono.
-
-Fabric: Pour cette robe, j’ai utilisé un tissu en acétate noir et blanc que je trouvais très sympa et ile me semble (c’était il y a quelques années déjà) trouvé au marché St Pierre.
-
-La forme extra simple de la robe, la rend très facile à réaliser. La seul complexité reste la ceinture qui est directement prise dans la couture de taille. Pour cette réalisation le tissu e acétate est une difficulté supplémentaire car il glisse énormément - une seule solution : utiliser le double d’épingle.
+Cette robe est l’une de mes premières réalisations depuis que je me suis remise à la couture il y a quelques années. Elle a été la première d’une longue liste de réalisations et c’est pourquoi je trouvais important de la partager en premier. Elle m’a montrée de quoi j’étais capable et le résultat m’a encouragé à continuer.
 
 BREAK
 
-Le modèle est très intéressant : ici réalisé avec un tissu soyeux il donne l’impression d’une robe d’occasion, mais en coton ou viscose il donnera l’allure d’une petite robe estivale . En conclusion un patron à réutiliser !
+## Pattern
+
+Le patron provient d’un livre “Dressing Chic” dans lequel plusieurs modèles sont vraiment top et très abordable en niveau débutant. Ce patron est simple mais avec un super résultat. Tout est bien pensé, de la ceinture cousue dans la taille, jusqu’aux discrètes coutures de côté qui permettent de ne pas dévoiler ses sous vêtements dès qu’on lève un bras. Bref mini temps passé pour un maxi résultat.
+
+
+## Fabric
+
+Le tissu est un polyester noir et blanc acheté à l’époque au magasin Reine, dans le XVIIIème. Un peu inquiète au début du tissu glissant, il s’est avéré au final très facile à travailler. Je réutiliserai sans aucun doute le patron avec un tissu type coton ou viscose pour une petite robe de tous les jours .

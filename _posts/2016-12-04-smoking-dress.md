@@ -2,6 +2,7 @@
 layout: post
 title:  "Smoking Dress"
 hook: "Première participation à un concours, celui de Louis Antoinette Paris"
+hidden: true
 ---
 
 Première participation à un concours, celui de Louis Antoinette Paris pour Hacklamode. Deuxième édition de ce concours et un réelle bonne idée : un patron de la collection en libre téléchargement pendant 1 mois, et autant de temps pour réaliser le modèle ou bien en créer un nouveau à partir de celui proposé : cette année le patron Imagine !
