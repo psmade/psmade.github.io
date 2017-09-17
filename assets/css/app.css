@@ -49,6 +49,7 @@ header.layout-post a{
   padding: 10px;
 }
 #logo{
+  padding-top: 20px;
   width: 300px;
 }
 
@@ -70,7 +71,7 @@ header.layout-post a{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  height: 260px;
+  height: 280px;
   padding: 0px;
 }
 
@@ -80,7 +81,7 @@ header.layout-post a{
 
 .bg_opaque{
   background-color: rgba(0,0,0, 0.7);
-  height: 260px;
+  height: 280px;
   transition: background-color .5s ease-out;
 }
 .post_from_index h2{
@@ -138,9 +139,9 @@ header.layout-post a{
 /************* FOOTER **********/
 footer{
   font-size: 12px;
-  color: #ddd;
+  color: #ccc;
   text-align: center;
-  border-top: 1px dashed #eee;
+  border-top: 1px dashed #ddd;
   padding: 20px 0px;
   margin-top: 20px;
 }
