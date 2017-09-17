@@ -66,6 +66,26 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>2017-09-17-robe-epaule-nouee.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527363349.50566</real>
+				<key>version</key>
+				<dict>
+					<key>27ba8c6f8149b1305223cdd6b8524ffbfa34717052ef61e75fa17952e587478e</key>
+					<integer>11</integer>
+				</dict>
+			</dict>
+			<key>2017-09-19-sweat-capuche-homme.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527363371.98907602</real>
+				<key>version</key>
+				<dict>
+					<key>27ba8c6f8149b1305223cdd6b8524ffbfa34717052ef61e75fa17952e587478e</key>
+					<integer>15</integer>
+				</dict>
+			</dict>
 			<key>2017-09-7-gilet-monceau.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -74,16 +94,6 @@
 				<dict>
 					<key>27ba8c6f8149b1305223cdd6b8524ffbfa34717052ef61e75fa17952e587478e</key>
 					<integer>2</integer>
-				</dict>
-			</dict>
-			<key>2017-09-7-robe-epaule-nouee.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>527361872.21084201</real>
-				<key>version</key>
-				<dict>
-					<key>27ba8c6f8149b1305223cdd6b8524ffbfa34717052ef61e75fa17952e587478e</key>
-					<integer>7</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -112,7 +122,10 @@
 			<string>2017-09-7-gilet-monceau.md</string>
 		</array>
 		<array>
-			<string>2017-09-7-robe-epaule-nouee.md</string>
+			<string>2017-09-17-robe-epaule-nouee.md</string>
+		</array>
+		<array>
+			<string>2017-09-19-sweat-capuche-homme.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -122,7 +135,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>27ba8c6f8149b1305223cdd6b8524ffbfa34717052ef61e75fa17952e587478e</key>
-			<integer>8</integer>
+			<integer>16</integer>
 		</dict>
 	</dict>
 </dict>
