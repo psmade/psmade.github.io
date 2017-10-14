@@ -6,9 +6,9 @@ hook: Concours Hack la mode saison 2
 
 Le concours [Hack la mode saison 3][1] vient de débuter, alors j’en profite pour vous parler de ma participation à la saison 2. J’ai découvert ce concours de [Louis Antoinette][2] l’année dernière. Je ne connaissais pas leur marque de patron à l’époque mais j’ai tout de suite adhéré ! 
 
-Le concept : un patron gratuit en téléchargement, et un concours sur la réalisation à partir de ce patron. Plusieurs catégories sont récompensées : la meilleure association de tissu, le meilleur “hack” du patron, la photo la plus originale… Bref il y en a pour tous ls goûts.
+Le concept : un patron gratuit en téléchargement, et un concours sur la réalisation à partir de ce patron. Plusieurs catégories sont récompensées : la meilleure association de tissu, le meilleur “hack” du patron, la photo la plus originale… Bref il y en a pour tous les goûts.
 
-Toutes les réalisations des concurrentes sont visibles sur Instagram avec le #hacklamode ou bien en vous connectant sur la [plateforme dédiée][3].
+Toutes les réalisations des concurrentes sont visibles sur Instagram avec le #hacklamode ou en vous connectant sur la [plateforme dédiée][3].
 
 BREAK
 
@@ -30,7 +30,7 @@ J’ai aussi pris le parti d’ajouter une ceinture amovible en satin noire, fer
 
 Je remercie famille et amis qui n’ont pas hésité à liker ma robe afin de m’aider à monter dans le concours, mais au final, pas de sélection pour moi. Malgré cela je reste ravie de ma création. Non seulement j’ai pu apprendre à me familiariser avec le patronage et l’exigence de précision que cela demande, mais cette robe fut ma tenue du nouvel an 2017 :)
 
-En tout cas, pas vaincue, je réitère cette année. Cette fois ci c’est le patron Alma qui est à l’honneur et j’ai hâte de vous faire découvrir ma création pour le concours - stay tuned !
+En tout cas, pas vaincue, je réitère cette année. Cette fois ci c’est le patron [Alma][7] qui est à l’honneur et j’ai hâte de vous faire découvrir ma création pour le concours - stay tuned !
 
 [1]:	https://www.louisantoinette.com/hacklamode.html
 [2]:	http://blog.louisantoinette.com/
@@ -38,3 +38,4 @@ En tout cas, pas vaincue, je réitère cette année. Cette fois ci c’est le pa
 [4]:	https://www.louisantoinette.com/patrons/robes-2/robe-imagine-hacklamode-patron.html
 [5]:	https://www.sacres-coupons.com/
 [6]:	https://www.mapetitemercerie.com/en/
+[7]:	https://www.louisantoinette.com/patrons/robes-2/robe-alma-patron-1-html.html
