@@ -8,22 +8,30 @@
 		<dict>
 			<key>2016-11-20-haut-encolure-carree.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>529164860.60654199</real>
 				<key>lastModification</key>
-				<real>527361788.57351798</real>
+				<real>529164860.60654199</real>
 				<key>version</key>
 				<dict>
 					<key>27ba8c6f8149b1305223cdd6b8524ffbfa34717052ef61e75fa17952e587478e</key>
-					<integer>2</integer>
+					<integer>29</integer>
 				</dict>
 			</dict>
 			<key>2016-11-20-robe-avec-noeud.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>529164860.60657197</real>
 				<key>lastModification</key>
-				<real>527361788.57352</real>
+				<real>529164860.60657197</real>
 				<key>version</key>
 				<dict>
 					<key>27ba8c6f8149b1305223cdd6b8524ffbfa34717052ef61e75fa17952e587478e</key>
-					<integer>2</integer>
+					<integer>29</integer>
 				</dict>
 			</dict>
 			<key>2016-11-20-robe-kimono.md</key>
@@ -38,32 +46,44 @@
 			</dict>
 			<key>2016-11-20-veste-basque.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>529164860.606565</real>
 				<key>lastModification</key>
-				<real>527361788.57351899</real>
+				<real>529164860.606565</real>
 				<key>version</key>
 				<dict>
 					<key>27ba8c6f8149b1305223cdd6b8524ffbfa34717052ef61e75fa17952e587478e</key>
-					<integer>2</integer>
+					<integer>29</integer>
 				</dict>
 			</dict>
 			<key>2016-12-04-smoking-dress.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>529164860.60657799</real>
 				<key>lastModification</key>
-				<real>527361788.57352</real>
+				<real>529164860.60657799</real>
 				<key>version</key>
 				<dict>
 					<key>27ba8c6f8149b1305223cdd6b8524ffbfa34717052ef61e75fa17952e587478e</key>
-					<integer>2</integer>
+					<integer>29</integer>
 				</dict>
 			</dict>
 			<key>2017-01-01-raymond-rose.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>529164860.606583</real>
 				<key>lastModification</key>
-				<real>527361788.57352</real>
+				<real>529164860.606583</real>
 				<key>version</key>
 				<dict>
 					<key>27ba8c6f8149b1305223cdd6b8524ffbfa34717052ef61e75fa17952e587478e</key>
-					<integer>2</integer>
+					<integer>29</integer>
 				</dict>
 			</dict>
 			<key>2017-09-17-robe-epaule-nouee.md</key>
@@ -96,14 +116,24 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>Untitled.md</key>
+			<key>2017-10-01-robe-agathe-geometrique.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>528580989.65944397</real>
+				<real>529709371.58644903</real>
 				<key>version</key>
 				<dict>
 					<key>27ba8c6f8149b1305223cdd6b8524ffbfa34717052ef61e75fa17952e587478e</key>
-					<integer>27</integer>
+					<integer>31</integer>
+				</dict>
+			</dict>
+			<key>2017-10-14-smoking-dress.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529709466.08830202</real>
+				<key>version</key>
+				<dict>
+					<key>27ba8c6f8149b1305223cdd6b8524ffbfa34717052ef61e75fa17952e587478e</key>
+					<integer>35</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -138,7 +168,10 @@
 			<string>2017-09-19-sweat-capuche-homme.md</string>
 		</array>
 		<array>
-			<string>Untitled.md</string>
+			<string>2017-10-01-robe-agathe-geometrique.md</string>
+		</array>
+		<array>
+			<string>2017-10-14-smoking-dress.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -148,7 +181,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>27ba8c6f8149b1305223cdd6b8524ffbfa34717052ef61e75fa17952e587478e</key>
-			<integer>28</integer>
+			<integer>35</integer>
 		</dict>
 	</dict>
 </dict>
