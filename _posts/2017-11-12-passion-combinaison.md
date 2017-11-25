@@ -4,7 +4,7 @@ title: Passion combinaison
 hook: Déclinaison de la robe Alma pour ma participation au concours Hacklamode
 ---
 
-Le concours [Hacklamode][3] des patrons [Louis Antoinette Paris][2] a lancé sa 3ème édition au mois d’octobre. Les participants devaient rendre leur copie pour le 5 novembre, et dans cet article je vous explique les détails de ma participation . Le patron du concours est celui de la robe [Alma][3] et j’ai choisi de participer dans la catégorie “Hack du patron”. Vous trouverez tous les détails du concours [ici][1].
+Le concours [Hacklamode][1] des patrons [Louis Antoinette Paris][2] a lancé sa 3ème édition au mois d’octobre. Les participants devaient rendre leur copie pour le 5 novembre, et dans cet article je vous explique les détails de ma participation . Le patron du concours est celui de la robe [Alma][3] et j’ai choisi de participer dans la catégorie “Hack du patron”. Vous trouverez tous les détails du concours [ici][1].
 
 BREAK
 
