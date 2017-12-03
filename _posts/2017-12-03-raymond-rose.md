@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mateau Raymond en laine
+title: Manteau Raymond en laine
 hook: Première commande chez République du chiffon
 ---
 
