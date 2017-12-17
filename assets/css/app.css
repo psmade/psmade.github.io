@@ -136,6 +136,10 @@ header.layout-post a{
   width: 100%;
 }
 
+.comments {
+  margin-top: 20px;
+}
+
 /************* FOOTER **********/
 footer{
   font-size: 12px;
