@@ -1,5 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-25T20:34:10+01:00</updated><id>http://localhost:4000//</id><title type="html">Perrine Self Made</title><subtitle>De la couture
-</subtitle><entry><title type="html">Manteau au grand col</title><link href="http://localhost:4000/manteau-grand-col/" rel="alternate" type="text/html" title="Manteau au grand col" /><published>2017-12-25T00:00:00+01:00</published><updated>2017-12-25T00:00:00+01:00</updated><id>http://localhost:4000/manteau-grand-col</id><content type="html" xml:base="http://localhost:4000/manteau-grand-col/">&lt;p&gt;Deuxième manteau de la saison, indispensable au vu du temps. Celui ci a une coupe ample, un boutonnage simple et un immense col cranté, bref un rendu sobre et élégant.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-30T20:49:39+01:00</updated><id>http://localhost:4000//</id><title type="html">Perrine Self Made</title><subtitle>De la couture
+</subtitle><entry><title type="html">Marinière couleur d’automne</title><link href="http://localhost:4000/mariniere-bleue/" rel="alternate" type="text/html" title="Marinière couleur d'automne" /><published>2018-01-30T00:00:00+01:00</published><updated>2018-01-30T00:00:00+01:00</updated><id>http://localhost:4000/mariniere-bleue</id><content type="html" xml:base="http://localhost:4000/mariniere-bleue/">&lt;p&gt;Encore une nouvelle réalisation du livre &lt;a href=&quot;http://amzn.to/2nragTH&quot;&gt;Dressing Chic&lt;/a&gt;.
+Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs géométriques de couleur automnales.&lt;/p&gt;
+
+&lt;p&gt;BREAK&lt;/p&gt;
+
+&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+
+&lt;p&gt;La patron provient d’un livre que j’ai depuis très longtemps : &lt;a href=&quot;http://amzn.to/2nragTH&quot;&gt;Dressing Chic&lt;/a&gt;. Plusieurs modèle sur le site proviennent déjà de ce livre, comme la &lt;a href=&quot;http://ps-made.com/robe-kimono/&quot;&gt;robe kimono&lt;/a&gt; ou la &lt;a href=&quot;http://ps-made.com/robe-epaule-nouee/&quot;&gt;robe à épaule nouée&lt;/a&gt;. Bref un super livre avec des intemporels très bien expliqués.&lt;/p&gt;
+
+&lt;p&gt;Le modèle est assez simple avec des manches type kimono. L’encolure est carrée et rend le modèle intemporel. Un petit détail en plus: des pattes aux épaules et à la taille.&lt;/p&gt;
+
+&lt;h2 id=&quot;modifications&quot;&gt;Modifications&lt;/h2&gt;
+
+&lt;p&gt;La seule modification que j’ai apportée ici ce sont les pattes qui à la base sont au niveau des hanches, mais que j’ai déplacé au niveau de la taille.&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;Le tissu que j’ai utilisé est une viscose du chez &lt;a href=&quot;http://www.tissus-reine.com/&quot;&gt;Reine&lt;/a&gt; dans le XVIIIème arrondissement de Paris. Une petite merveille aux motifs géométriques et des couleurs très automnales.&lt;/p&gt;</content><summary type="html">Encore une nouvelle réalisation du livre Dressing Chic.
+Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs géométriques de couleur automnales.</summary></entry><entry><title type="html">Manteau au grand col</title><link href="http://localhost:4000/manteau-grand-col/" rel="alternate" type="text/html" title="Manteau au grand col" /><published>2017-12-25T00:00:00+01:00</published><updated>2017-12-25T00:00:00+01:00</updated><id>http://localhost:4000/manteau-grand-col</id><content type="html" xml:base="http://localhost:4000/manteau-grand-col/">&lt;p&gt;Deuxième manteau de la saison, indispensable au vu du temps. Celui ci a une coupe ample, un boutonnage simple et un immense col cranté, bref un rendu sobre et élégant.&lt;/p&gt;
 
 &lt;p&gt;BREAK&lt;/p&gt;
 
@@ -134,18 +152,4 @@ Comme le haut faisait estival, j’ai coupé le modèle de patron du pantalon à
 
 &lt;h2 id=&quot;fabric&quot;&gt;Fabric&lt;/h2&gt;
 
-&lt;p&gt;J’ai utilisé ici un jersey bleu marine du marché Saint Pierre avec une très jolie doublure graphique du magasin Reine, tout cela dans le XVIIIème. Très pratique car peut être portée avec des baskets pour un esprit tenniswoman ou bien avec des chaussures habillées pour un côté plus hôtesse de l’air - je réfléchirai la prochaine fois avant de mettre cette robe au travail :) .&lt;/p&gt;</content><summary type="html">Pattern</summary></entry><entry><title type="html">Gilet Monceau en Jersey</title><link href="http://localhost:4000/gilet-monceau/" rel="alternate" type="text/html" title="Gilet Monceau en Jersey" /><published>2017-09-07T00:00:00+02:00</published><updated>2017-09-07T00:00:00+02:00</updated><id>http://localhost:4000/gilet-monceau</id><content type="html" xml:base="http://localhost:4000/gilet-monceau/">&lt;h2 id=&quot;pattern&quot;&gt;Pattern&lt;/h2&gt;
-
-&lt;p&gt;Ici j’ai voulu réaliser un petit gilet en jersey, et au vu du tissu, j’ai entrepris des modifications. Le jersey que je voulais utiliser m’a plus donné envie d’un sweat cosy qui s’enfile par le col. La base du patron est le gilet Monceau de &lt;a href=&quot;http://cozy-little-world.com/&quot;&gt;Cozy Little World&lt;/a&gt;. Le patron est très facile, peu de pièce et donc rapide à assembler. J’apprécie tout particulièrement l’encolure, ni trop large ni trop serrée.&lt;/p&gt;
-
-&lt;p&gt;BREAK&lt;/p&gt;
-
-&lt;h2 id=&quot;modifications&quot;&gt;Modifications&lt;/h2&gt;
-
-&lt;p&gt;D’origine la boutonnière est sur le devant, et j’ai choisi de la mettre derrière. Pour la transformation j’ai relu un livre de ma bibliothèque: &lt;a href=&quot;http://amzn.to/2eKg2fl&quot;&gt;Le Grand Livre de La Couture&lt;/a&gt;. Inverser dos et devant a finalement été très simple avec les explications très bien illustrées. Pour les boutons, j’ai opté pour des pressions nacrées.&lt;/p&gt;
-
-&lt;p&gt;En entreprenant des modifications, j’en ai profité pour ajouter des cm aux dos, devant et manches. En effet je suis grande et mon livre m’a donné envie de retoucher tout ce que je pouvais pour réellement adapter le gilet à ma morphologie.&lt;/p&gt;
-
-&lt;h2 id=&quot;fabric&quot;&gt;Fabric&lt;/h2&gt;
-
-&lt;p&gt;Un étonnant jersey crème gaufré (enfin j’imagine). Aucune idée de comment ces chevrons sont réalisés sur le tissu mais il est très confortable et super original. Tissu très facile à couper, et le jersey m’a permis de découvrir encore une nouvelle fonctionnalité de ma machine : le point Stretch Stitch. Disponible sur ma machine (&lt;a href=&quot;http://amzn.to/2eKIPQM&quot;&gt;Janome Easy Jean&lt;/a&gt;) elle permet de réaliser des points extensibles : consommateur de fil, oui, mais parfait pour un vêtement en jersey.&lt;/p&gt;</content><summary type="html">Pattern</summary></entry></feed>
+&lt;p&gt;J’ai utilisé ici un jersey bleu marine du marché Saint Pierre avec une très jolie doublure graphique du magasin Reine, tout cela dans le XVIIIème. Très pratique car peut être portée avec des baskets pour un esprit tenniswoman ou bien avec des chaussures habillées pour un côté plus hôtesse de l’air - je réfléchirai la prochaine fois avant de mettre cette robe au travail :) .&lt;/p&gt;</content><summary type="html">Pattern</summary></entry></feed>
