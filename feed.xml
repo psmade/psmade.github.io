@@ -18,7 +18,7 @@
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos//mariniere-bleue//main.jpg" />
+        <media:thumbnail url="{{ site.url }}/assets/photos{{ post.url }}main.jpg" />
 			</item>
 		{% endfor %}
 	</channel>
