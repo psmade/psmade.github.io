@@ -40,6 +40,9 @@
 				<guid isPermaLink="true">http://ps-made.com{{ post.url }}</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos{{ post.url }}main.jpg" />
         <enclosure url="http://ps-made.com/assets/photos{{ post.url }}main.jpg" type="image/jpeg" />
+        <media:content url="http://ps-made.com/assets/photos{{ post.url }}main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		{% endfor %}
 	</channel>
