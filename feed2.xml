@@ -1,0 +1,46 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+    <title>{{ site.title | xml_escape }}</title>
+		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+		<link>http://ps-made.com/</link>
+		<atom:link href="http://ps-made.com/{{ page.path }}" rel="self" type="application/rss+xml" />
+		<lastBuildDate>{% for post in site.posts limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
+		{% for post in site.posts limit:50 %}
+			<item>
+				<title>{{ post.title | xml_escape }}</title>
+				{% if post.author.name %}
+					<dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
+				{% endif %}
+        <description>
+          {{ post.content | split:'BREAK' | first | xml_escape }}
+          {% capture image %}
+            <img src="http://ps-made.com/assets/photos/{{ post.url }}main.jpg" class="main_photo"/>
+          {% endcapture %}
+          {{ image | xml_escape }}
+          {{ post.content | split:'BREAK' | last | xml_escape }}
+
+          {% capture other_images %}
+            {% for static_file in site.static_files %}
+                {% if static_file.path contains post.url %}
+                  {% if static_file.path contains "detail" %}
+                    <div class="row single_photo">
+                      <img src="http://ps-made.com/{{ static_file.path }}" />
+                    </div>
+                  {% endif %}
+                {% endif %}
+            {% endfor %}
+          {% endcapture %}
+          {{ other_images | xml_escape }}
+        </description>
+				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+				<link>http://ps-made.com{{ post.url }}</link>
+				<guid isPermaLink="true">http://ps-made.com{{ post.url }}</guid>
+        <media:thumbnail url="http://ps-made.com/assets/photos{{ post.url }}main.jpg" />
+        <enclosure url="http://ps-made.com/assets/photos{{ post.url }}main.jpg" type="image/jpeg" />
+			</item>
+		{% endfor %}
+	</channel>
+</rss>
