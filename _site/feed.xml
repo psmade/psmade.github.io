@@ -6,7 +6,19 @@
 </description>
 		<link>http://localhost:4000</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-		<lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 01 May 2019 00:00:00 +0200</lastBuildDate>
+		
+			<item>
+				<title>Wax power</title>
+				
+				<description>&lt;p&gt;Il y a quelque temps une amie m’a rapporté du tissu wax avec lequel j’ai fait plusieurs petites choses. La grande nouveauté pour moi : le headband.&lt;/p&gt;
+
+&lt;p&gt;</description>
+				<pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/wax-headband/</link>
+				<guid isPermaLink="true">http://localhost:4000/wax-headband/</guid>
+        <media:thumbnail url="http://ps-made.com/assets/photos/wax-headband/main.jpg" />
+			</item>
 		
 			<item>
 				<title>Boîtes de rangement</title>
