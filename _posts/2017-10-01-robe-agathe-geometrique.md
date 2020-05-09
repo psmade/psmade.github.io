@@ -2,7 +2,6 @@
 layout: post
 title: Robe Agathe géométrique
 hook: Ca y est on a changé de saison...
-hidden: false
 ---
 Ca y est on a changé de saison et les tenues d’automne sont de retour.
 

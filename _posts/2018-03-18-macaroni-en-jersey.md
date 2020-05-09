@@ -2,7 +2,6 @@
 layout: post
 title: Macaroni en jersey
 hook: Première réalisation en maille jersey
-hidden: false
 ---
 
 Joli Macaraoni avec du jersey réversible et une surjeteuse
