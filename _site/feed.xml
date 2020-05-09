@@ -6,7 +6,19 @@
 </description>
 		<link>http://localhost:4000</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-		<lastBuildDate>Wed, 01 May 2019 00:00:00 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 09 May 2020 00:00:00 +0200</lastBuildDate>
+		
+			<item>
+				<title>Chaussons pour bébé</title>
+				
+				<description>&lt;p&gt;Les chaussons pour bébé vendus en boutique sont toujours très jolis, mais parfois assez cher surtout s’ils sont en cuir véritable. Au final les fabriquer soi même demande peu de tissu et c’est même assez rapide et simple. N’hésitez pas à sauter le pas ça vaut vraiment le coup.&lt;/p&gt;
+
+&lt;p&gt;</description>
+				<pubDate>Sat, 09 May 2020 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/chaussons-bebe/</link>
+				<guid isPermaLink="true">http://localhost:4000/chaussons-bebe/</guid>
+        <media:thumbnail url="http://ps-made.com/assets/photos/chaussons-bebe/main.jpg" />
+			</item>
 		
 			<item>
 				<title>Wax power</title>

@@ -12,7 +12,7 @@ layout: default
   <div class="row">
     <h1>{{ page.title }}</h1>
     {{ page.content | split:'BREAK' | first }}
-    <img src="{{ BASE_PATH }}/assets/photos/{{ page.url }}/main.jpg" class="main_photo"/>
+    <img src="{{ BASE_PATH }}/assets/photos/{{ page.url }}main.jpg" class="main_photo"/>
     {{ page.content | split:'BREAK' | last }}
   </div>
 </div>
