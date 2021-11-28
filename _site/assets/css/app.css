@@ -12,7 +12,6 @@ header a{
 }
 
 header.layout-home {
-  border-top: 3px solid #333;
   text-align: center;
   padding: 40px 0px 50px 0px;
 }
@@ -44,6 +43,12 @@ header.layout-post a{
 #logo{
   padding-top: 10px;
   width: 200px;
+  opacity: 0.7;
+  transition: linear 0.4s;
+}
+#logo:hover {
+  opacity: 1;
+  transition: linear 0.4s;
 }
 
 .main_photo_home{
