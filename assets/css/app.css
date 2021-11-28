@@ -61,9 +61,7 @@ header.layout-post a{
 
 .post_preview_wrapper {
   margin: 30px 10px;
-  border: 1px solid #dedede;
   border-radius: 5px;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 .post_image_in_list{
