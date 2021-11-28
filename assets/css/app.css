@@ -14,7 +14,7 @@ header a{
 header.layout-home {
   border-top: 3px solid #333;
   text-align: center;
-  padding: 60px 0px 80px 0px;
+  padding: 40px 0px 50px 0px;
 }
 
 header.layout-home a{
@@ -42,15 +42,15 @@ header.layout-post a{
 }
 
 .container{
-  max-width: 720px;
+  max-width: 1024px;
 }
 
-.container p, .container h2, .container h3, .container .single_photo{
+.container p, .single_post h2, .single_post h3, .container .single_photo{
   padding: 10px;
 }
 #logo{
   padding-top: 10px;
-  width: 300px;
+  width: 200px;
 }
 
 .main_photo_home{
@@ -61,9 +61,15 @@ header.layout-post a{
   width: 100%;
 }
 
-.post_from_index{
+.post_preview_wrapper {
+  margin: 30px 10px;
+  border: 1px solid #dedede;
+  border-radius: 5px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.post_image_in_list{
   display: block;
-  margin: 0px 0px 60px 0px;
   text-align: center;
   color: #fff;
   text-decoration: none;
@@ -73,16 +79,30 @@ header.layout-post a{
   background-position: 50% 50%;
   height: 280px;
   padding: 0px;
+  margin: 0px;
 }
 
-.post_preview{
-  padding: 80px 30px;
+.post_card{
 }
 
-.bg_opaque{
-  background-color: rgba(0,0,0, 0.7);
-  height: 280px;
-  transition: background-color .5s ease-out;
+.post_card_text {
+  padding: 15px;
+}
+
+.post_title {
+  color: #333;
+  text-decoration: none;
+  text-transform:uppercase;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.post_title:hover {
+  color: #000;
+}
+.post_content {
+  font-size: 14px;
 }
 .post_from_index h2{
   font-family: 'Oswald', sans-serif;
@@ -92,13 +112,36 @@ header.layout-post a{
   color: #fff;
   text-decoration: none;
 }
-.post_from_index:hover .bg_opaque{
-  background-color: rgba(0,0,0,0.4);
-}
 
 .post_from_index .post_content{
   font-size: 15px;
   color: #fff;
+}
+
+/************* NAV ****************/
+
+nav {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 15px;
+  padding: 30px 10px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 20px;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+}
+
+.separator {
+  display: inline-block;
+  height: 5px;
+  width: 5px;
+  margin: 0px 5px 2px 5px;
+  background-color: #dedede;
+  border-radius: 10px;
 }
 
 /************* SINGLE POST ****************/

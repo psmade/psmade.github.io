@@ -10,20 +10,32 @@ layout: default
   </div>
 </header>
 
+<nav>
+  <a href="/">Accueil</a>
+  <span class="separator"></span>
+  <a href="/">Créations</a>
+  <span class="separator"></span>
+  <a href="/">Inspiration</a>
+  <span class="separator"></span>
+  <a href="/">A propos</a>
+  <span class="separator"></span>
+  <a href="/">Contact</a>
+</nav>
+
 <div class="container posts">
-  {% assign count = 0 %}
   {% for post in site.posts %}
     {% unless post.hidden %}
-      <a class="row post_from_index col-md-12" href="{{ BASE_PATH }}{{ post.url }}" style="background-image:url('{{ BASE_PATH }}assets/photos{{ post.url }}main.jpg');">
-        <div class="bg_opaque">
-          <div class="post_preview">
-            <h2>{{ post.title }}</h2>
-            <div class="post_content">
-              {{ post.hook }}
+      <div class="col-md-6">
+        <div class="post_preview_wrapper">
+          <div class="post_card">
+            <a class="row post_image_in_list" href="{{ BASE_PATH }}{{ post.url }}" style="background-image:url('{{ BASE_PATH }}assets/photos{{ post.url }}main.jpg');"></a>
+            <div class="post_card_text">
+              <a href="{{ BASE_PATH }}{{ post.url }}" class="post_title">{{ post.title }}</a>
+              <div class="post_content">{{ post.hook }}</div>
             </div>
           </div>
         </div>
-      </a>
+      </div>
     {% endunless %}
   {% endfor %}
 </div>
