@@ -13,3 +13,10 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      fav: false

@@ -23,23 +23,22 @@ layout: default
 </nav>
 
 <div class="hero">
-  {% for post in site.posts %}
-    {% if post.fav %}
-      <a class="row hero_image" href="{{ BASE_PATH }}{{ post.url }}" style="background-image:url('{{ BASE_PATH }}assets/photos{{ post.url }}main.jpg');">
-        <div class="hero_content_wrapper">
-        <span class="hero_title">{{ post.title }}</span>
-        <br />
-        <span class="hero_content">{{ post.hook }}</span>
-        </div>
-      </a>
-
-    {%endif%}
+  {% assign fav_posts = site.posts | where: 'fav', true %}
+  {% for post in fav_posts %}
+    <a class="row hero_image" href="{{ BASE_PATH }}{{ post.url }}" style="background-image:url('{{ BASE_PATH }}assets/photos{{ post.url }}main.jpg');">
+      <div class="hero_content_wrapper">
+      <span class="hero_title">{{ post.title }}</span>
+      <br />
+      <span class="hero_content">{{ post.hook }}</span>
+      </div>
+    </a>
   {%endfor%}
 </div>
 
 <h2 class="home_subtitles">Projets Récents</h2>
 <div class="container posts">
-  {% for post in site.posts %}
+  {% assign my_posts = site.posts | where: 'fav', false %}
+  {% for post in my_posts %}
     {% assign step = forloop.index | modulo: 2 %}
     {% if step == 1 %}
     <div class= "row">
