@@ -28,17 +28,10 @@ header.layout-home span{
 
 header.layout-post{
   padding: 15px 0px 15px 0px;
-  background: rgba(20,20,20,1);
-  background: -moz-linear-gradient(left, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
-  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(20,20,20,1)), color-stop(51%, rgba(48,48,48,1)), color-stop(66%, rgba(56,56,56,1)), color-stop(100%, rgba(36,36,36,1)));
-  background: -webkit-linear-gradient(left, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
-  background: -o-linear-gradient(left, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
-  background: -ms-linear-gradient(left, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
-  background: linear-gradient(to right, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#141414', endColorstr='#242424', GradientType=1 );
+  border-bottom: 1px solid #eee;
 }
 header.layout-post a{
-  color: #fff;
+  color: #000;
 }
 
 .container{
@@ -118,6 +111,57 @@ header.layout-post a{
   color: #fff;
 }
 
+.home_subtitles {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-weight: lighter;
+  position: relative;
+  color: #888;
+  text-transform: uppercase;
+  margin-top: 40px;
+}
+
+/************* HOME ABOUT ****************/
+.home_about {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.home_about img {
+  max-width: 300px;
+}
+
+
+/************* HERO ****************/
+
+.hero_image {
+  display: block;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  height: 450px;
+  padding: 0px;
+  margin: 0px;
+  color: #fff;
+  text-decoration: none;
+  position: relative
+}
+
+.hero_title {
+  display: inline-block;
+  font-family: 'Oswald', sans-serif;
+  font-size: 34px;
+}
+.hero_content {
+  display: inline-block;
+}
+.hero_content_wrapper {
+  padding-top: 180px;
+  text-align: center;
+  text-shadow: -1px 6px 20px #000000;
+}
+
 /************* NAV ****************/
 
 nav {
@@ -127,7 +171,6 @@ nav {
   padding: 30px 10px;
   border-top: 1px solid #eee;
   border-bottom: 1px solid #eee;
-  margin-bottom: 20px;
 }
 
 nav a {
@@ -165,10 +208,12 @@ nav a {
 
 .single_post h1{
   font-family:  'Oswald', sans-serif;
-  font-size: 40px;
+  font-size: 45px;
   padding: 50px 0px 60px 0px;
   margin-top: 0px;
   text-align: center;
+  font-weight: lighter;
+  color: #333;
 }
 
 .single_photo{

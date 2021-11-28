@@ -22,9 +22,28 @@ layout: default
   <a href="/">Contact</a>
 </nav>
 
+<div class="hero">
+  {% for post in site.posts %}
+    {% if post.fav %}
+      <a class="row hero_image" href="{{ BASE_PATH }}{{ post.url }}" style="background-image:url('{{ BASE_PATH }}assets/photos{{ post.url }}main.jpg');">
+        <div class="hero_content_wrapper">
+        <span class="hero_title">{{ post.title }}</span>
+        <br />
+        <span class="hero_content">{{ post.hook }}</span>
+        </div>
+      </a>
+
+    {%endif%}
+  {%endfor%}
+</div>
+
+<h2 class="home_subtitles">Projets Récents</h2>
 <div class="container posts">
   {% for post in site.posts %}
-    {% unless post.hidden %}
+    {% assign step = forloop.index | modulo: 2 %}
+    {% if step == 1 %}
+    <div class= "row">
+    {% endif %}
       <div class="col-md-6">
         <div class="post_preview_wrapper">
           <div class="post_card">
@@ -36,6 +55,21 @@ layout: default
           </div>
         </div>
       </div>
-    {% endunless %}
+    {% if step == 0 %}
+    </div>
+    {% endif %}
   {% endfor %}
+</div>
+
+<h2 class="home_subtitles">A propos</h2>
+<div class="container">
+  <div class="row home_about">
+    <div class="col-md-6">
+      <p>Je suis Perrine et je fais des tissus! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis vulputate posuere. Aliquam erat volutpat.</p>
+      <p>Suspendisse consectetur elit nec fringilla condimentum. Duis ac congue mi. Fusce lobortis molestie est, vel egestas risus egestas sed. Curabitur ornare ex nec erat malesuada, nec elementum est fringilla. Nunc malesuada sed orci quis viverra. Ut ut magna laoreet, egestas sapien non, venenatis ligula. Etiam scelerisque id arcu quis efficitur.</p>
+    </div>
+    <div class="col-md-6">
+      <img src="/assets/images/perrine_atelier.jpg" />
+    </div>
+  </div>
 </div>
