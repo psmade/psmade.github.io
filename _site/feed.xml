@@ -4,8 +4,8 @@
 		<title></title>
 		<description>Blog de couture où je partage mes réalisations homemade, des astuces techniques, mes bonnes adresses de tissu et les marques de patron qui m'inspirent.
 </description>
-		<link></link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		<lastBuildDate>Sat, 09 May 2020 00:00:00 +0200</lastBuildDate>
 		
 			<item>
@@ -15,8 +15,8 @@
 
 &lt;p&gt;</description>
 				<pubDate>Sat, 09 May 2020 00:00:00 +0200</pubDate>
-				<link>/chaussons-bebe/</link>
-				<guid isPermaLink="true">/chaussons-bebe/</guid>
+				<link>http://localhost:4000/chaussons-bebe/</link>
+				<guid isPermaLink="true">http://localhost:4000/chaussons-bebe/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/chaussons-bebe/main.jpg" />
 			</item>
 		
@@ -27,8 +27,8 @@
 
 &lt;p&gt;</description>
 				<pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
-				<link>/wax-headband/</link>
-				<guid isPermaLink="true">/wax-headband/</guid>
+				<link>http://localhost:4000/wax-headband/</link>
+				<guid isPermaLink="true">http://localhost:4000/wax-headband/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/wax-headband/main.jpg" />
 			</item>
 		
@@ -46,8 +46,8 @@ Je n’ai cependant pas réalisé de pièces pour femme enceinte pendant ma gros
 
 &lt;p&gt;</description>
 				<pubDate>Sun, 24 Feb 2019 00:00:00 +0100</pubDate>
-				<link>/boites-rangement/</link>
-				<guid isPermaLink="true">/boites-rangement/</guid>
+				<link>http://localhost:4000/boites-rangement/</link>
+				<guid isPermaLink="true">http://localhost:4000/boites-rangement/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/boites-rangement/main.jpg" />
 			</item>
 		
@@ -58,8 +58,8 @@ Je n’ai cependant pas réalisé de pièces pour femme enceinte pendant ma gros
 
 &lt;p&gt;</description>
 				<pubDate>Sun, 18 Mar 2018 00:00:00 +0100</pubDate>
-				<link>/macaroni-en-jersey/</link>
-				<guid isPermaLink="true">/macaroni-en-jersey/</guid>
+				<link>http://localhost:4000/macaroni-en-jersey/</link>
+				<guid isPermaLink="true">http://localhost:4000/macaroni-en-jersey/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/macaroni-en-jersey/main.jpg" />
 			</item>
 		
@@ -71,8 +71,8 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 
 &lt;p&gt;</description>
 				<pubDate>Tue, 30 Jan 2018 00:00:00 +0100</pubDate>
-				<link>/mariniere-bleue/</link>
-				<guid isPermaLink="true">/mariniere-bleue/</guid>
+				<link>http://localhost:4000/mariniere-bleue/</link>
+				<guid isPermaLink="true">http://localhost:4000/mariniere-bleue/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/mariniere-bleue/main.jpg" />
 			</item>
 		
@@ -83,8 +83,8 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 
 &lt;p&gt;</description>
 				<pubDate>Mon, 25 Dec 2017 00:00:00 +0100</pubDate>
-				<link>/manteau-grand-col/</link>
-				<guid isPermaLink="true">/manteau-grand-col/</guid>
+				<link>http://localhost:4000/manteau-grand-col/</link>
+				<guid isPermaLink="true">http://localhost:4000/manteau-grand-col/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/manteau-grand-col/main.jpg" />
 			</item>
 		
@@ -95,8 +95,8 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 
 &lt;p&gt;</description>
 				<pubDate>Sun, 03 Dec 2017 00:00:00 +0100</pubDate>
-				<link>/raymond-rose/</link>
-				<guid isPermaLink="true">/raymond-rose/</guid>
+				<link>http://localhost:4000/raymond-rose/</link>
+				<guid isPermaLink="true">http://localhost:4000/raymond-rose/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/raymond-rose/main.jpg" />
 			</item>
 		
@@ -107,8 +107,8 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 
 &lt;p&gt;</description>
 				<pubDate>Sat, 25 Nov 2017 00:00:00 +0100</pubDate>
-				<link>/jupe-automne/</link>
-				<guid isPermaLink="true">/jupe-automne/</guid>
+				<link>http://localhost:4000/jupe-automne/</link>
+				<guid isPermaLink="true">http://localhost:4000/jupe-automne/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/jupe-automne/main.jpg" />
 			</item>
 		
@@ -119,8 +119,8 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 
 &lt;p&gt;</description>
 				<pubDate>Sun, 12 Nov 2017 00:00:00 +0100</pubDate>
-				<link>/passion-combinaison/</link>
-				<guid isPermaLink="true">/passion-combinaison/</guid>
+				<link>http://localhost:4000/passion-combinaison/</link>
+				<guid isPermaLink="true">http://localhost:4000/passion-combinaison/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/passion-combinaison/main.jpg" />
 			</item>
 		
@@ -131,8 +131,8 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 
 &lt;p&gt;</description>
 				<pubDate>Sun, 29 Oct 2017 00:00:00 +0200</pubDate>
-				<link>/top-monique/</link>
-				<guid isPermaLink="true">/top-monique/</guid>
+				<link>http://localhost:4000/top-monique/</link>
+				<guid isPermaLink="true">http://localhost:4000/top-monique/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/top-monique/main.jpg" />
 			</item>
 		
@@ -147,8 +147,8 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 
 &lt;p&gt;</description>
 				<pubDate>Sat, 14 Oct 2017 00:00:00 +0200</pubDate>
-				<link>/smoking-dress/</link>
-				<guid isPermaLink="true">/smoking-dress/</guid>
+				<link>http://localhost:4000/smoking-dress/</link>
+				<guid isPermaLink="true">http://localhost:4000/smoking-dress/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/smoking-dress/main.jpg" />
 			</item>
 		
@@ -159,8 +159,8 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 
 &lt;p&gt;</description>
 				<pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-				<link>/robe-agathe-geometrique/</link>
-				<guid isPermaLink="true">/robe-agathe-geometrique/</guid>
+				<link>http://localhost:4000/robe-agathe-geometrique/</link>
+				<guid isPermaLink="true">http://localhost:4000/robe-agathe-geometrique/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/robe-agathe-geometrique/main.jpg" />
 			</item>
 		
@@ -171,8 +171,8 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 
 &lt;p&gt;</description>
 				<pubDate>Tue, 19 Sep 2017 00:00:00 +0200</pubDate>
-				<link>/sweat-capuche-homme/</link>
-				<guid isPermaLink="true">/sweat-capuche-homme/</guid>
+				<link>http://localhost:4000/sweat-capuche-homme/</link>
+				<guid isPermaLink="true">http://localhost:4000/sweat-capuche-homme/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/sweat-capuche-homme/main.jpg" />
 			</item>
 		
@@ -185,8 +185,8 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 
 &lt;p&gt;</description>
 				<pubDate>Sun, 17 Sep 2017 00:00:00 +0200</pubDate>
-				<link>/robe-epaule-nouee/</link>
-				<guid isPermaLink="true">/robe-epaule-nouee/</guid>
+				<link>http://localhost:4000/robe-epaule-nouee/</link>
+				<guid isPermaLink="true">http://localhost:4000/robe-epaule-nouee/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/robe-epaule-nouee/main.jpg" />
 			</item>
 		
@@ -199,8 +199,8 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 
 &lt;p&gt;</description>
 				<pubDate>Thu, 07 Sep 2017 00:00:00 +0200</pubDate>
-				<link>/gilet-monceau/</link>
-				<guid isPermaLink="true">/gilet-monceau/</guid>
+				<link>http://localhost:4000/gilet-monceau/</link>
+				<guid isPermaLink="true">http://localhost:4000/gilet-monceau/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/gilet-monceau/main.jpg" />
 			</item>
 		
@@ -211,8 +211,8 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 
 &lt;p&gt;</description>
 				<pubDate>Sun, 20 Nov 2016 00:00:00 +0100</pubDate>
-				<link>/robe-kimono/</link>
-				<guid isPermaLink="true">/robe-kimono/</guid>
+				<link>http://localhost:4000/robe-kimono/</link>
+				<guid isPermaLink="true">http://localhost:4000/robe-kimono/</guid>
         <media:thumbnail url="http://ps-made.com/assets/photos/robe-kimono/main.jpg" />
 			</item>
 		
