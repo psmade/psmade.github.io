@@ -309,12 +309,23 @@ footer a{
 
 /************************ MOBILE LAYOUT *********************/
 @media all and (max-width: 500px) {
-
   .post_from_index{
     height: 300px;
   }
 
   .bg_opaque{
     height: 300px;
+  }
+}
+
+@media all and (max-width: 770px) {
+  .small-logo {
+    text-align: center;
+    padding-bottom: 10px;
+  }
+
+  .small-nav {
+    text-align: center !important;
+    border: 1px solid green;
   }
 }
