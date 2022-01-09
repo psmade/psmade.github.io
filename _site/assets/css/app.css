@@ -75,7 +75,14 @@ header.layout-post a{
   background-position: 50% 50%;
   height: 280px;
   padding: 0px;
-  margin: 0px;
+  margin: 0px 20px;
+}
+
+@media all and (max-width: 500px) {
+  .post_image_in_list{
+    margin: 0px;
+    margin-top: 30px;
+  }
 }
 
 .post_card{
@@ -90,9 +97,12 @@ header.layout-post a{
   text-decoration: none;
   text-transform:uppercase;
   font-family: 'Oswald', sans-serif;
-  font-size: 18px;
+  font-size: 25px;
   display: inline-block;
   margin-bottom: 10px;
+  text-align: center;
+  display: inline-block;
+  width: 100%;
 }
 .post_title:hover {
   color: #000;
@@ -109,9 +119,8 @@ header.layout-post a{
   text-decoration: none;
 }
 
-.post_from_index .post_content{
-  font-size: 15px;
-  color: #fff;
+.post_preview_wrapper .post_content{
+  text-align: center;
 }
 
 .home_subtitles {
