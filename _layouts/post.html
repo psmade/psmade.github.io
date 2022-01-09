@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<header class="container-fluid layout-{{ page.layout }}">
+<header class="container-fluid layout-{{ page.layout }} layout-small-header">
   <div class="container">
     <div class="row">
       <div class="col-md-3">
@@ -12,11 +12,7 @@ layout: default
       </div>
 
       <nav class="col-md-9">
-        <a href="/">Accueil</a>
-        <span class="separator"></span>
-        <a href="/#realisations">Réalisations</a>
-        <span class="separator"></span>
-        <a href="/#about">A&nbsp;propos</a>
+        {% include nav.html %}
       </nav>
     </div>
   </div>

@@ -25,11 +25,11 @@ header.layout-home span{
   letter-spacing: 8px;
 }
 
-header.layout-post{
+header.layout-post, header.layout-about{
   padding: 15px 0px 15px 0px;
   border-bottom: 1px solid #eee;
 }
-header.layout-post a{
+header.layout-post a, header.layout-about a{
   color: #000;
 }
 
@@ -143,12 +143,22 @@ header.layout-post a{
 .home_about {
   text-align: center;
   margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.home_about a{
+  color: #333;
 }
 
 .home_about img {
-  max-width: 300px;
+  max-width: 370px;
 }
 
+.home_about p {
+  padding-top: 0px;
+  margin-top: 0px;
+  line-height: 22px;
+}
 .about_home_container {
   padding: 20px;
   background-color: #edf4fc;
@@ -219,11 +229,28 @@ nav a:hover {
   border-radius: 10px;
 }
 
-.layout-post nav {
+.layout-small-header nav {
   border: 0px;
   padding: 0px 10px 0px 0px;
   margin: 5px 0px 0px 0px;
   text-align: right;
+}
+
+/************** ABOUT *******************/
+
+.social-links {
+  margin-top: 30px;
+}
+
+.social-links a {
+  color: #333 !important;
+  text-decoration: none;
+  font-size: 14px;
+  display: inline-block
+}
+
+.social-links a img {
+  padding-bottom: 2px;
 }
 
 /************* SINGLE POST ****************/
