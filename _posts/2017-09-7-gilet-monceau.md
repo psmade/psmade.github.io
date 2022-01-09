@@ -2,7 +2,6 @@
 layout: post
 title: Gilet Monceau en Jersey
 hook: Ici j’ai voulu réaliser un petit gilet en jersey...
-fav: true
 ---
 
 ## Pattern
