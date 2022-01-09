@@ -12,9 +12,8 @@ header a{
 }
 
 header.layout-home {
-  border-top: 3px solid #333;
   text-align: center;
-  padding: 60px 0px 80px 0px;
+  padding: 40px 0px 50px 0px;
 }
 
 header.layout-home a{
@@ -26,31 +25,36 @@ header.layout-home span{
   letter-spacing: 8px;
 }
 
-header.layout-post{
+header.layout-post, header.layout-about{
   padding: 15px 0px 15px 0px;
-  background: rgba(20,20,20,1);
-  background: -moz-linear-gradient(left, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
-  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(20,20,20,1)), color-stop(51%, rgba(48,48,48,1)), color-stop(66%, rgba(56,56,56,1)), color-stop(100%, rgba(36,36,36,1)));
-  background: -webkit-linear-gradient(left, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
-  background: -o-linear-gradient(left, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
-  background: -ms-linear-gradient(left, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
-  background: linear-gradient(to right, rgba(20,20,20,1) 0%, rgba(48,48,48,1) 51%, rgba(56,56,56,1) 66%, rgba(36,36,36,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#141414', endColorstr='#242424', GradientType=1 );
+  border-bottom: 1px solid #eee;
 }
-header.layout-post a{
-  color: #fff;
+header.layout-post a, header.layout-about a{
+  color: #000;
 }
 
 .container{
-  max-width: 720px;
+  max-width: 1024px;
 }
 
-.container p, .container h2, .container h3, .container .single_photo{
+.container p, .single_post h2, .single_post h3, .container .single_photo{
   padding: 10px;
 }
+
+#post-logo {
+  width: 130px;
+  opacity: 0.7;
+}
+
 #logo{
   padding-top: 10px;
-  width: 300px;
+  width: 200px;
+  opacity: 0.7;
+  transition: linear 0.4s;
+}
+#logo:hover {
+  opacity: 1;
+  transition: linear 0.4s;
 }
 
 .main_photo_home{
@@ -61,9 +65,13 @@ header.layout-post a{
   width: 100%;
 }
 
-.post_from_index{
+.post_preview_wrapper {
+  margin: 30px 10px;
+  border-radius: 5px;
+}
+
+.post_image_in_list{
   display: block;
-  margin: 0px 0px 60px 0px;
   text-align: center;
   color: #fff;
   text-decoration: none;
@@ -73,16 +81,39 @@ header.layout-post a{
   background-position: 50% 50%;
   height: 280px;
   padding: 0px;
+  margin: 0px 20px;
 }
 
-.post_preview{
-  padding: 80px 30px;
+@media all and (max-width: 500px) {
+  .post_image_in_list{
+    margin: 0px;
+    margin-top: 30px;
+  }
 }
 
-.bg_opaque{
-  background-color: rgba(0,0,0, 0.7);
-  height: 280px;
-  transition: background-color .5s ease-out;
+.post_card{
+}
+
+.post_card_text {
+  padding: 15px;
+}
+
+.post_title {
+  color: #333;
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  display: inline-block;
+  margin-bottom: 10px;
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+}
+.post_title:hover {
+  color: #000;
+}
+.post_content {
+  font-size: 14px;
 }
 .post_from_index h2{
   font-family: 'Oswald', sans-serif;
@@ -92,13 +123,134 @@ header.layout-post a{
   color: #fff;
   text-decoration: none;
 }
-.post_from_index:hover .bg_opaque{
-  background-color: rgba(0,0,0,0.4);
+
+.post_preview_wrapper .post_content{
+  text-align: center;
 }
 
-.post_from_index .post_content{
-  font-size: 15px;
+.home_subtitles {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-weight: lighter;
+  position: relative;
+  color: #888;
+  text-transform: uppercase;
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+/************* HOME ABOUT ****************/
+.home_about {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.home_about a{
+  color: #333;
+}
+
+.home_about img {
+  max-width: 370px;
+}
+
+.home_about p {
+  padding-top: 0px;
+  margin-top: 0px;
+  line-height: 22px;
+}
+.about_home_container {
+  padding: 20px;
+  background-color: #edf4fc;
+  margin-top: 20px;
+}
+.about_home_container .home_subtitles {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  color: #444;
+}
+/************* HERO ****************/
+
+.hero_image {
+  display: block;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  height: 450px;
+  padding: 0px;
+  margin: 0px;
   color: #fff;
+  text-decoration: none;
+  position: relative
+}
+
+.hero_title {
+  display: inline-block;
+  font-family: 'Oswald', sans-serif;
+  font-size: 34px;
+}
+.hero_content {
+  display: inline-block;
+}
+.hero_content_wrapper {
+  padding-top: 180px;
+  text-align: center;
+  text-shadow: -1px 6px 20px #000000;
+}
+
+/************* NAV ****************/
+
+nav {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 15px;
+  padding: 30px 10px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #000;
+  border-bottom: 1px solid #ccc;
+}
+
+.separator {
+  display: inline-block;
+  height: 5px;
+  width: 5px;
+  margin: 0px 5px 2px 5px;
+  background-color: #dedede;
+  border-radius: 10px;
+}
+
+.layout-small-header nav {
+  border: 0px;
+  padding: 0px 10px 0px 0px;
+  margin: 5px 0px 0px 0px;
+  text-align: right;
+}
+
+/************** ABOUT *******************/
+
+.social-links {
+  margin-top: 30px;
+}
+
+.social-links a {
+  color: #333 !important;
+  text-decoration: none;
+  font-size: 14px;
+  display: inline-block
+}
+
+.social-links a img {
+  padding-bottom: 2px;
 }
 
 /************* SINGLE POST ****************/
@@ -122,10 +274,12 @@ header.layout-post a{
 
 .single_post h1{
   font-family:  'Oswald', sans-serif;
-  font-size: 40px;
+  font-size: 45px;
   padding: 50px 0px 60px 0px;
   margin-top: 0px;
   text-align: center;
+  font-weight: lighter;
+  color: #333;
 }
 
 .single_photo{
@@ -143,25 +297,35 @@ header.layout-post a{
 /************* FOOTER **********/
 footer{
   font-size: 12px;
-  color: #ccc;
+  color: #bbb;
   text-align: center;
-  border-top: 1px dashed #ddd;
-  padding: 20px 0px;
+  padding: 40px 0px 60px 0px;
   margin-top: 20px;
 }
 
 footer a{
-  color: #ddd;
+  color: #bbb;
 }
 
 /************************ MOBILE LAYOUT *********************/
 @media all and (max-width: 500px) {
-
   .post_from_index{
     height: 300px;
   }
 
   .bg_opaque{
     height: 300px;
+  }
+}
+
+@media all and (max-width: 770px) {
+  .small-logo {
+    text-align: center;
+    padding-bottom: 10px;
+  }
+
+  .small-nav {
+    text-align: center !important;
+    border: 1px solid green;
   }
 }
