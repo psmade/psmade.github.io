@@ -130,20 +130,30 @@ header.layout-post a{
   position: relative;
   color: #888;
   text-transform: uppercase;
-  margin-top: 40px;
+  margin-top: 50px;
+  font-size: 30px;
 }
 
 /************* HOME ABOUT ****************/
 .home_about {
   text-align: center;
-  margin-bottom: 80px;
+  margin-bottom: 20px;
 }
 
 .home_about img {
   max-width: 300px;
 }
 
-
+.about_home_container {
+  padding: 20px;
+  background-color: #edf4fc;
+  margin-top: 20px;
+}
+.about_home_container .home_subtitles {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  color: #444;
+}
 /************* HERO ****************/
 
 .hero_image {
@@ -243,15 +253,14 @@ nav a {
 /************* FOOTER **********/
 footer{
   font-size: 12px;
-  color: #ccc;
+  color: #bbb;
   text-align: center;
-  border-top: 1px dashed #ddd;
-  padding: 20px 0px;
+  padding: 40px 0px 60px 0px;
   margin-top: 20px;
 }
 
 footer a{
-  color: #ddd;
+  color: #bbb;
 }
 
 /************************ MOBILE LAYOUT *********************/
