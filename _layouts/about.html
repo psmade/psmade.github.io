@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<header class="container-fluid layout-{{ page.layout }} layout-small-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <a href="/">
+          <img id="post-logo" src="/assets/images/logo.jpg" alt="logo"/>
+        </a>
+      </div>
+
+      <nav class="col-md-9">
+        {% include nav.html %}
+      </nav>
+    </div>
+  </div>
+</header>
+
+<div class="container single_post">
+  <h1>Bonjour !</h1>
+  <div class="row">
+    <div class="col-md-8">
+      {{ content }}
+    </div>
+    <div class="col-md-4">
+      <img src="/assets/images/perrine_atelier.jpg" style="width: 100%; margin-top: 25px;"/>
+      <div class="social-links">
+        <a href="https://www.instagram.com/perrine_psmade/">
+          <img src="/assets/images/instagram.jpg" alt="Instagram" style="width: 20px;"/>
+          Instagram
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
