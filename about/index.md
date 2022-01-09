@@ -1,7 +1,7 @@
 ---
 layout: about
 title: PSMade - Blog de couture DIY
-hook: About
+hook: Je m’appelle Perrine et je suis passionnée de couture.
 ---
 
 
