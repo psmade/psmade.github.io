@@ -40,6 +40,12 @@ header.layout-post a{
 .container p, .single_post h2, .single_post h3, .container .single_photo{
   padding: 10px;
 }
+
+#post-logo {
+  width: 130px;
+  opacity: 0.7;
+}
+
 #logo{
   padding-top: 10px;
   width: 200px;
