@@ -4,7 +4,7 @@ permalink: /:title/
 description: >
   Blog de couture où je partage mes réalisations homemade, des astuces techniques, mes bonnes adresses de tissu et les marques de patron qui m'inspirent.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ps-made.com" # the base hostname & protocol for your site, e.g. http://example.com
 production_url: "http://ps-made.com"
 
 # Build settings
