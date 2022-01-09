@@ -205,6 +205,11 @@ nav a {
   text-decoration: none;
 }
 
+nav a:hover {
+  color: #000;
+  border-bottom: 1px solid #ccc;
+}
+
 .separator {
   display: inline-block;
   height: 5px;
@@ -212,6 +217,13 @@ nav a {
   margin: 0px 5px 2px 5px;
   background-color: #dedede;
   border-radius: 10px;
+}
+
+.layout-post nav {
+  border: 0px;
+  padding: 0px 10px 0px 0px;
+  margin: 5px 0px 0px 0px;
+  text-align: right;
 }
 
 /************* SINGLE POST ****************/
