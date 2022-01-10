@@ -10,7 +10,7 @@ Des années plus tard, diplôme en poche, travail… mais quelques chose manque.
 
 ## Qu’est ce que m’apporte la couture ?
 
-Coudre pour soi ou pour les autres ce n’est pas juste faire des lignes de points à la machine. C’est un process complet : réfléchir aux patrons, aux modèles, les adapter, choisir le tissu, le découper et enfin réaliser le montage. Les possibilités de créations me semblent illimitées. Parfois l’inspiration vient d’une image trouvée sur internet, d’un patron, ou même d’un tissu sur lequel une fois qu’on a posé les yeux on sait exactement ce qu’on va en faire.
+Coudre pour soi ou pour les autres ce n’est pas juste faire des lignes de points à la machine. C’est un process complet : réfléchir aux patrons, aux modèles, les adapter, choisir le tissu, le découper et enfin réaliser le montage. Les possibilités de création me semblent illimitées. Parfois l’inspiration vient d’une image trouvée sur internet, d’un patron, ou même d’un tissu sur lequel une fois qu’on a posé les yeux on sait exactement ce qu’on va en faire.
 
 ## Mes projets
 
