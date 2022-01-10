@@ -19,6 +19,6 @@ Depuis je continue à coudre, et je souhaite aller plus loin et m’essayer à l
 
 ## Pourquoi un blog?
 
-Au fil de mes réalisations, j’ai appris énormément de choses que je ne connaissais pas : merci Youtube et les blogs de couture ! C’est donc dans cette logique de partage de techniques mais aussi d’inspirations et de galères (oui ça arrive aussi) que j’ai créé ce blog. C’est un espace qui me permet de partager ce que je fais, comment et pourquoi, avec plus de détail que ne le permet Instagram. Si ce blog vous permet de trouver des idées, de vous aider ou de vous inspirer, j’en serais plus que ravie.
+Au fil de mes réalisations, j’ai appris énormément de choses que je ne connaissais pas : merci Youtube et les blogs de couture ! C’est donc dans cette logique de partage de techniques mais aussi d’inspirations et de galères (oui ça arrive aussi) que j’ai créé ce blog. C’est un espace qui me permet de partager ce que je fais, comment et pourquoi, avec plus de détail que ne le permet [Instagram](https://www.instagram.com/perrine_psmade/?hl=fr). Si ce blog vous permet de trouver des idées, de vous aider ou de vous inspirer, j’en serais plus que ravie.
 
 Bonne couture à vous !
