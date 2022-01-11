@@ -6,7 +6,7 @@ hook: Je m’appelle Perrine et je suis passionnée de couture.
 
 Je m’appelle Perrine et je suis passionnée de couture. De formation ingénieur et plutôt cartésienne, la couture n’était a priori pas dans mes activités de prédilection. Ma maman, spécialisée dans les textiles, m’avait néanmoins initiée à utiliser une machine à coudre, et j’ai fabriqué bon nombre de chouchous pour les cheveux…
 
-Des années plus tard, diplôme en poche, travail… mais quelques chose manque. Je lis des livres sur les couleurs, me passionne pour la mise en page des documents, je sens qu’un côté artistique tente de refaire surface. J’achète donc une machine à coudre et retourne au marché Saint Pierre où me traînait régulièrement ma maman quand j’étais jeune, mais où je ne suis pas retournée depuis près de 20 ans : la machine est lancée.
+Des années plus tard, diplôme en poche, travail… mais quelques chose manque. Je lis des livres sur les couleurs, me passionne pour la mise en page de documents, je sens qu’un côté artistique tente de refaire surface. J’achète donc une machine à coudre et retourne au marché Saint Pierre où me traînait régulièrement ma maman quand j’étais jeune, mais où je ne suis pas retournée depuis près de 20 ans : la machine est lancée.
 
 ## Qu’est ce que m’apporte la couture ?
 
@@ -14,8 +14,8 @@ Coudre pour soi ou pour les autres ce n’est pas juste passer du temps derrièr
 
 ## Mes projets
 
-Je chercher toujours à me perfectionner et à apprendre de nouvelles techniques que je pourrai ensuite utiliser comme une boîte à outils. J’ai suivi plusieurs cours en ligne et en 2020 je me lance un nouveau défi (oui le confinement ce n’était pas suffisant) : passer mon CAP Métier de la Mode Couture Flou. L’aventure se termine en juin 2021 avec un nouveau diplôme en poche :).
-Depuis je continue à coudre, et je souhaite aller plus loin et m’essayer à la création de patron. Etant grande, je retouche quasi systématiquement les patrons que j’achète pour les rallonger. De là à la création d’un patron il n’y a (peut être) qu’un pas!
+Je cherche toujours à me perfectionner et à apprendre de nouvelles techniques que je pourrai ensuite utiliser comme une boîte à outils. J’ai suivi plusieurs cours en ligne et en 2020 je me lance un nouveau défi (oui le confinement ce n’était pas suffisant) : passer mon CAP Métier de la Mode Couture Flou. L’aventure se termine en juin 2021 avec un nouveau diplôme en poche :).
+Depuis je continue à coudre, je souhaite aller plus loin et m’essayer à la création de patron. Etant grande, je retouche quasi systématiquement les patrons que j’achète pour les rallonger. De là à la création d’un patron il n’y a (peut être) qu’un pas!
 
 ## Pourquoi un blog?
 
