@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Manteau au grand col
-hook: La saison des manteaux...
+hook: Un manteau oversize en laine pour l'hiver. J'ai découvert les découpes de col, pas évident dans un tissu épais, mais les tailleurs n'ont qu'à bien se tenir !
 ---
 
-Deuxième manteau de la saison, indispensable au vu du temps. Celui ci a une coupe ample, un boutonnage simple et un immense col cranté, bref un rendu sobre et élégant.
+Deuxième manteau de la saison, indispensable au vu du temps. Celui ci a une coupe ample, un boutonnage simple et un immense col cranté, bref un rendu sobre et oversize.
 
 BREAK
 
@@ -16,7 +16,7 @@ C’était la première fois que je réalisais un manteau avec un col cranté. L
 
 Les poches aussi m’ont fait peur : des poches de type ville (merci internet). Là aussi étape par étape le montage est bien expliqué. Je trouvé qu’il y a beaucoup de similitude entre ce montage et celui des pattes de boutonnage.
 
-## Matériel
+## Tissu
 
 Pour le tissu j’ai utilisé une laine de chez [Sacrés Coupons][3] bleu marine. Elle est très douce et très agréable à coudre, un vrai bonheur un tissu épais que se pique si délicatement. La doublure est en polyester bleu marine également.
 
