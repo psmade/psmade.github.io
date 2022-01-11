@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Manteau Raymond en laine
-hook: Première réalisation République du Chiffon : Raymond, un manteau à grandes poches et manches raglan. Ce ne sera pas le dernier modèle de cette marque !
+hook: "Première réalisation République du Chiffon : Raymond, un manteau à grandes poches et manches raglan. Ce ne sera pas le dernier modèle de cette marque !"
 fav: true
 ---
 
