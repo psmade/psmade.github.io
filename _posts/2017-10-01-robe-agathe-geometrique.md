@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robe Agathe géométrique
-hook: La robe Agathe peut très bien être d'été ou d'hiver en fonction du tissu choisi. Ici dans un magnifique tissu géométrique que j'avais dans mon stock, mais attention  aux raccords!
+hook: La robe Agathe peut être d'été ou d'hiver en fonction du tissu choisi. Ici dans un magnifique tissu géométrique que j'avais dans mon stock.
 ---
 
 
@@ -19,7 +19,9 @@ Le modèle présente six plis creux sur la jupe, deux devant au niveau des pince
 
 ## Tissu
 
-J’ai choisi d’utiliser un tissu aux motifs géométriques acheté dans l’un de mes magasins préférés : [Sacrés coupons][6]. Des coupons de toutes les tailles (majoritairement 1,5 ou 3m) et des tissus toujours très originaux. Je n’en suis jamais ressortie sans rien acheter. Par contre un souci avec un tissu géométrique comme celui ci : les raccords !! Après avoir refait la couture de taille plusieurs fois, je suis plutôt contente du résultat :) .
+J’ai choisi d’utiliser un tissu aux motifs géométriques acheté dans l’un de mes magasins préférés : [Sacrés coupons][6]. Des coupons de toutes les tailles (majoritairement 1,5 ou 3m) et des tissus toujours très originaux. Je n’en suis jamais ressortie sans rien acheter. Par contre un souci avec un tissu géométrique comme celui ci : les raccords !! Après avoir refait la couture de taille plusieurs fois, je suis plutôt contente du résultat :).
+
+Les manches et la parementure de ce patron sont entoilées, et pour moi ça s'est terminé avec une série de cloques a la surface du tissu! La partie entoilée est la partie doublure, donc non visible, ouf ! Par contre on ne m'y reprendra pas à acheter de l'entoilage pas cher, depuis c'est la marque [Vlieseline][7] que j'achète souvent sur le site [Rascol][8] (ils ont un énorme choix). Pour l'entoilage fin je prends toujours le fameux [entoilage DS1][9] de [Stragier][10]. 
 
 [1]: https://coralie-bijasson.com/
 [2]: https://coralie-bijasson.com/content/4-a-propos
@@ -27,3 +29,7 @@ J’ai choisi d’utiliser un tissu aux motifs géométriques acheté dans l’u
 [4]: /robe-kimono/
 [5]: /gilet-monceau/
 [6]: https://www.sacres-coupons.com/
+[7]: https://www.vlieseline.com/Produits
+[8]: https://www.rascol.com/
+[9]: https://www.stragier.com/fr/article/601157/entoilage-ds1-uni-blanc-150-cm
+[10]: https://www.stragier.com/fr/home
