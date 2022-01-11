@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La robe Smoking
-hook: Concours Hack la mode saison 2
+hook: Je vous raconte ici ma participation au concours "Hack la mode" saison 2. Qu'est ce que ce concours? Qui est Louis Antoinette? La réponse dans cet article !
 ---
 
 Le concours [Hack la mode saison 3][1] vient de débuter, alors j’en profite pour vous parler de ma participation à la saison 2. J’ai découvert ce concours de [Louis Antoinette][2] l’année dernière. Je ne connaissais pas leur marque de patron à l’époque mais j’ai tout de suite adhéré ! 
