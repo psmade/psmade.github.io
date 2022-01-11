@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Passion combinaison
-hook: Déclinaison de la robe Alma pour ma participation au concours Hacklamode
+hook: Ouverture de la saison 3 du concours "Hack la mode". Cette année je m'attaque à la transformation de la robe Alma de Louis Antoinette.
 ---
 
 Le concours [Hacklamode][1] des patrons [Louis Antoinette Paris][2] a lancé sa 3ème édition au mois d’octobre. Les participants devaient rendre leur copie pour le 5 novembre, et dans cet article je vous explique les détails de ma participation . Le patron du concours est celui de la robe [Alma][3] et j’ai choisi de participer dans la catégorie “Hack du patron”. Vous trouverez tous les détails du concours [ici][1].
@@ -20,9 +20,11 @@ Comme le haut faisait estival, j’ai coupé le modèle de patron du pantalon à
 Afin de lier le haut et le bas, le haut étant plus large, je l’ai froncé afin de le faire correspondre à la largeur du pantalon. Les fronces à la taille renvoient aux fronces des épaules, ce qui va bien avec le modèle.
 
 
-## Tissu etc.
+## Tissu
 
 Pour le bas  de la combinaison j’avais une pièce de coton beige à petites rayures dans mes tissus depuis longtemps qui ne demandait qu’à être utilisé. Pour le haut, j’ai opté pour un [tissu plumetis blanc][5] de chez [Pretty Mercerie][6]. Je trouve le plumetis super joli, mais n’en avais jamais utilisé. J’en ai commandé 2 fois ce dont j’avais besoin pour ajouter également une petite blouse à ma collection maintenant que le concours est fini. Par contre ce plumetis est un peu transparent, j’ai donc doublé la pièce de devant.
+
+## Mercerie
 
 Pour les fournitures de mercerie, comme d’habitude je suis allée chez la mercerie Gérard pour l’élastique, la fermeture éclair invisible et les boutons : j’ai mis du temps à choisir entre blanc et beige, difficile de trouver ce qui allait parfaitement . Au final j’ai opté pour des boutons de nacre qui vont avec le haut comme le bas de la combinaison.
 
