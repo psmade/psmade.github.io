@@ -3,4 +3,11 @@ Pour envoyer les modifications:
 sh scripts/push.sh
 
 Les notes de Perrine : 
-- Dates des articles pour en changer l'ordre, et mettre le gilet Monceau avant le sweat pour homme
+- Home page , le tire "CRÉATIONS & INSPIRATIONS RÉCENTES" est en gris, je prefère en noir : à tester
+- Home page, section "About" : il y a un lien en bas d'article pour "en savoir plus" qui redirige vers la grande page About, mais le titre "A propos" devrait aussi rediriger vers la grande page About? 
+- Home page "A propros" , remplacer la dernière phrase par "En savoir plus sur mon parcours, ou mes créationssur Instagram" , ou peut être même deux liens "En savoir plus sur mon parcours" et "Mes créations sur Instagram"
+- J'ai cassé le hook de la jupe orange :(
+- Mes hooks doivent faire entre 130 et 160 caractères pour bine tenir sur 3 lignes, mais du coup le hook du fav est trèèèèès long.... ça serait mieux si dans le fav il pouvait revenir à la ligne, c'est possible? 
+- Articles : Titre gros, puis police très petite et taille des images énooormes! On pourra revoir la taille de ces éléments pour que ce soit plus harmonieux? 
+- Home page : la taille du hook et la taille du contenu du About sont très différentes, c'est bizarre peut être? 
+- LA durée de chargement des photos un peu longue
