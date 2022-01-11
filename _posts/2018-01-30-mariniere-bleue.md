@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marinière couleur d'automne
-hook: Petit top à encolure carrée et motifs géométriques
+hook: Une très jolie marinière à col carré, qui peut se porter aussi bien en hiver avec un gilet qu'en été. Encore un coup de "Dressing chic" !
 ---
 
 Encore une nouvelle réalisation du livre [Dressing Chic][1].
@@ -21,7 +21,7 @@ La seule modification que j’ai apportée ici ce sont les pattes qui à la base
 
 ## Tissu
 
-Le tissu que j’ai utilisé est une viscose du chez [Reine][4] dans le XVIIIème arrondissement de Paris. Une petite merveille aux motifs géométriques et des couleurs très automnales.
+Le tissu que j’ai utilisé est une viscose du chez [Reine][4]. Une petite merveille aux motifs géométriques et des couleurs très automnales.
 
 [1]: http://amzn.to/2nragTH
 [2]: http://ps-made.com/robe-kimono/
