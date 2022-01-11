@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gilet Monceau en Jersey
-hook: Joli Monceau en jersey chevrons à la plage. Très bien mais avec boutonnage dos et cm en plus s'il vous plait.
+hook: Joli gilet Monceau en jersey chevrons à la plage. Gilet d'accord, mais avec boutonnage dos et quelques cm de longueur en plus s'il vous plait.
 ---
 
 ## Patron
