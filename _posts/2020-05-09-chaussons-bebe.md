@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chaussons pour bébé
-hook: Couture facile pour nouveau né
+hook: Création facile pour bébé, pour vous ou pour un cadeau de naissance. Facile et rapide à réaliser et très utile au quotidien.
 ---
 
-Les chaussons pour bébé vendus en boutique sont toujours très jolis, mais parfois assez cher surtout s’ils sont en cuir véritable. Au final les fabriquer soi même demande peu de tissu et c’est même assez rapide et simple. N’hésitez pas à sauter le pas ça vaut vraiment le coup.
+Les chaussons pour bébé vendus en boutique sont toujours très jolis, mais parfois assez cher surtout s’ils sont en cuir véritable. Au final les fabriquer soi même demande peu de tissu et c’est même rapide et simple. N’hésitez pas à sauter le pas ça vaut vraiment le coup.
 
 BREAK
 
