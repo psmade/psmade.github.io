@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sweatshirt à capuche
-hook: Ici une nouvelle tentative de couture de jersey à la machine à coudre, et cette fois pas pour moi. Une première réalisation de vêtement pour homme avec des exigences du client à satisfaire en plus!
+hook: Une nouvelle tentative de jersey à la machine à coudre, et cette fois pas pour moi. Une première réalisation de vêtement pour homme !
 ---
 
 La première réalisation qui ne m'est pas destinée est... un sweatshirt pour homme. Simple, gris mais aussi l'occasion de réaliser mes premières modifications de patron, et de pratiquer le jersey à la machine à coudre. 
