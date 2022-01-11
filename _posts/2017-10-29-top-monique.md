@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top Monique bleu canard
-hook: Un top venu de l'une des pemières collections de République du Chiffon.
+hook: Le top Monique de la marque République du chiffon. Une super marque de patrons : simples mais avec ce détail qui fait toute la différence ! 
 ---
 
 Ce joli top provient de l’une des premières collections de [République du chiffon][1]. Un site de patrons formidable, à chaque nouvelle collection je résiste pour ne pas tout commander. D’ailleurs la dernière vient de sortir, n’hésitez pas à aller faire un tour sur [leur boutique en ligne][2] !
