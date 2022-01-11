@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Macaroni en jersey
-hook: Première réalisation en maille jersey
+hook: Le modèle Aime comme Macaroni m'a bien tapé dans l'oeil, je le réalise ici en maille et vous parle de la toute première utilisation de ma surjeteuse !
 ---
 
-Joli Macaraoni avec du jersey réversible et une surjeteuse
-
-BREAK
 
 ## Patron
 
 Ici j’ai enfin réalisé le haut [Aime comme Macaroni][1] de la marque de patron [Aime comme Marie][2]. Les volants rendent ce petit haut très original et surtout unique ! Avec une couleur sobre (moi j’ai choisi du gris) on obtient un rendu très élégant. J’avais une grande envie de réaliser ce patron, et j’ai déniché le jersey parfait.
+
+Les patrons de volants sont toujours très étonnants en serpentin, en les coupant on se demande bien ce que ça va donner. La modèle est très bien expliqué pas à pas donc aucun souci de ce côté là. Par contre les bords des volants sont francs, ce qui ne pose pas de souci en réalisant le modèle en jersay mais attention si vous utilisez un autre type de tissu. 
+
+BREAK
 
 ## Tissu
 
