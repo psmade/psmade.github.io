@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title></title>
-		<description>Blog de couture où je partage mes réalisations homemade, des astuces techniques, mes bonnes adresses de tissu et les marques de patron qui m'inspirent.
+		<description>Blog de couture où je partage mes réalisations homemade, des astuces techniques, mes bonnes adresses de tissu et les marques de patron qui m&apos;inspirent.
 </description>
 		<link>http://localhost:4000</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
@@ -64,7 +64,7 @@ Je n’ai cependant pas réalisé de pièces pour femme enceinte pendant ma gros
 			</item>
 		
 			<item>
-				<title>Marinière couleur d'automne</title>
+				<title>Marinière couleur d&apos;automne</title>
 				
 				<description>&lt;p&gt;Encore une nouvelle réalisation du livre &lt;a href=&quot;http://amzn.to/2nragTH&quot;&gt;Dressing Chic&lt;/a&gt;.
 Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs géométriques de couleur automnales.&lt;/p&gt;
@@ -155,7 +155,11 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 			<item>
 				<title>Robe Agathe géométrique</title>
 				
-				<description>&lt;p&gt;Ca y est on a changé de saison et les tenues d’automne sont de retour.&lt;/p&gt;
+				<description>&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+
+&lt;p&gt;En ce début d’automne j’ai choisi de réaliser la robe Agathe de la série de patrons &lt;a href=&quot;https://coralie-bijasson.com/&quot;&gt;“C’est moi le patron”&lt;/a&gt; de &lt;a href=&quot;https://coralie-bijasson.com/content/4-a-propos&quot;&gt;Coralie Bijasson&lt;/a&gt; . J’ai d’ailleurs réalisé que ce nom me disait quelque chose, c’est l’une des 3 auteurs du livre &lt;a href=&quot;http://amzn.to/2yCvDpd&quot;&gt;Dressing chic&lt;/a&gt; dont j’ai déjà parlé dans d’autres articles &lt;a href=&quot;/robe-kimono/&quot;&gt;ici&lt;/a&gt; et &lt;a href=&quot;/gilet-monceau/&quot;&gt;là&lt;/a&gt; . Donc je peux le dire je suis fan de ses patrons! La robe Agathe est notée en niveau 2, mais la réalisation ne présente pas de difficultés particulières.&lt;/p&gt;
+
+&lt;p&gt;J’apprécie beaucoup les petites manches courtes, très mignonnes et que j’ai recopiées pour d’autres réalisations. La fermeture à glissière invisible faisait aussi partie de mes grandes premières et avec le pied presseur dédié le résultat est super !&lt;/p&gt;
 
 &lt;p&gt;</description>
 				<pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
@@ -167,7 +171,7 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 			<item>
 				<title>Sweatshirt à capuche</title>
 				
-				<description>&lt;p&gt;Et voilà la première réalisation qui ne m’est pas destinée :) Un sweat pour homme!&lt;/p&gt;
+				<description>&lt;p&gt;La première réalisation qui ne m’est pas destinée est… un sweatshirt pour homme. Simple, gris mais aussi l’occasion de réaliser mes premières modifications de patron, et de pratiquer le jersey à la machine à coudre.&lt;/p&gt;
 
 &lt;p&gt;</description>
 				<pubDate>Tue, 19 Sep 2017 00:00:00 +0200</pubDate>
@@ -179,9 +183,9 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 			<item>
 				<title>Robe avec épaule nouée</title>
 				
-				<description>&lt;h2 id=&quot;pattern&quot;&gt;Pattern&lt;/h2&gt;
+				<description>&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
 
-&lt;p&gt;Une nouvelle réalisation faite à partir du livre “&lt;a href=&quot;http://amzn.to/2jBkbYh&quot;&gt;Dressing Chic&lt;/a&gt;”, celui dont venait déjà &lt;a href=&quot;/robe-kimono/&quot;&gt;la robe kimono&lt;/a&gt;. Robe très bien coupée et confortable. Elle est entièrement doublée et la taille est faite à partir d’un élastique tout simple. L’épaule en noeud est vraiment originale. Les deux morceaux de tissu sont suffisamment long et permettent de réaliser un vrai noeud, mais je préfère souvent faire un noeud simple afin de mieux laisser voir la doublure à cet endroit .&lt;/p&gt;
+&lt;p&gt;Une nouvelle réalisation faite à partir du livre “&lt;a href=&quot;http://amzn.to/2jBkbYh&quot;&gt;Dressing Chic&lt;/a&gt;”, celui d’où venait déjà &lt;a href=&quot;/robe-kimono/&quot;&gt;la robe kimono&lt;/a&gt;. Robe très bien coupée et confortable. Elle est entièrement doublée et la taille est faite à partir d’un élastique tout simple. L’épaule en noeud est vraiment originale. Les deux morceaux de tissu sont suffisamment long et permettent de réaliser un vrai noeud, mais je préfère souvent faire un noeud simple afin de mieux laisser voir la doublure à cet endroit .&lt;/p&gt;
 
 &lt;p&gt;</description>
 				<pubDate>Sun, 17 Sep 2017 00:00:00 +0200</pubDate>
@@ -193,7 +197,7 @@ Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs gé
 			<item>
 				<title>Gilet Monceau en Jersey</title>
 				
-				<description>&lt;h2 id=&quot;pattern&quot;&gt;Pattern&lt;/h2&gt;
+				<description>&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
 
 &lt;p&gt;Ici j’ai voulu réaliser un petit gilet en jersey, et au vu du tissu, j’ai entrepris des modifications. Le jersey que je voulais utiliser m’a plus donné envie d’un sweat cosy qui s’enfile par le col. La base du patron est le gilet Monceau de &lt;a href=&quot;http://cozy-little-world.com/&quot;&gt;Cozy Little World&lt;/a&gt;. Le patron est très facile, peu de pièce et donc rapide à assembler. J’apprécie tout particulièrement l’encolure, ni trop large ni trop serrée.&lt;/p&gt;
 
