@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Manteau Raymond en laine
-hook: Première commande chez République du chiffon
+hook: Première réalisation République du Chiffon : Raymond, un manteau à grandes poches et manches raglan. Ce ne sera pas le dernier modèle de cette marque !
 fav: true
 ---
 
@@ -15,7 +15,7 @@ Modèle simple, mais avec des détails très sympa: le col ouvert, les manches r
 
 
 
-## Matériel
+## Tissu
 
 Pour le modèle j’ai choisi un lainage de chez [Sacrés Coupons][3] qui garantit de ne jamais avoir froid. La doublure est faite en satin rose et les boutons assortis viennent de ma mercerie de quartier : la mercerie Gérard (mon sauveur de couture du weekend :) ).
 
