@@ -4,17 +4,17 @@ title: Blouson aviateur
 hook: "Je vous partage ici ma réalisation la plus complexe à ce jour : un blouson aviateur en faux cuir et fausse fourrure. Le montage a été très long et compliqué mais je suis fière du résultat !"
 ---
 
-L’histoire de ce blouson a débuté avec l’achat d’une fausse fourrure imitation peau de mouton aux [1][Coupons de Saint Pierre]. J’ai cherché pendant un petit moment le modèle de blouson que j’avais en tête et suis tombée sur le patron [2][Carly Aviator Jacket] de chez [3][Style Arc]. Une marque de patron inconnue pour moi mais qui vaut le détour pour ce blouson.
+L’histoire de ce blouson a débuté avec l’achat d’une fausse fourrure imitation peau de mouton aux [Coupons de Saint Pierre][1]. J’ai cherché pendant un petit moment le modèle de blouson que j’avais en tête et suis tombée sur le patron [Carly Aviator Jacket][2] de chez [Style Arc][3]. Une marque de patron inconnue pour moi mais qui vaut le détour pour ce blouson.
 
 BREAK
 
 ## Patron
 
-La patron [2][Carly Aviator Jacket] est un patron d’un bon niveau avec beaucoup de détail, mais il correspondait exactement à ce que j’avais en tête. Bien entendu il faut être prêt à découper un grand nombre de pièces. Le patron PDF est facilement téléchargeable, mais long à assembler comme tout patron avec de nombreuses pièces. Les explications par contre sont uniquement en anglais, ce qui m’a permis de me lancer dans un exercice de traduction. Il est assez amusant de voir qu’en anglais tous les types de points sont des déclinaisons de « stitch » : cover switch, under stitch, stitch in the ditch ….
+La patron [Carly Aviator Jacket][2] est un patron d’un bon niveau avec beaucoup de détail, mais il correspondait exactement à ce que j’avais en tête. Bien entendu il faut être prêt à découper un grand nombre de pièces. Le patron PDF est facilement téléchargeable, mais long à assembler comme tout patron avec de nombreuses pièces. Les explications par contre sont uniquement en anglais, ce qui m’a permis de me lancer dans un exercice de traduction. Il est assez amusant de voir qu’en anglais tous les types de points sont des déclinaisons de « stitch » : cover switch, under stitch, stitch in the ditch ….
 
 ## Tissu
 
-Le tissu sélectionné initialement, fausse peau de mouton double face, ne convenait pas du tout au patron qui inclut une doublure. Après quelques essais j’ai abandonné le tissu double face et suis retournée aux [1][Coupons de Saint Pierre] pour un faux cuir (que j’avais déjà repéré lors de mon premiers achat) et une fausse fourrure noire. Ces tissus ne sont pas facile à couper, je recommande dans ce cas un cutter rotatif (le mien vient de chez [4][Rascol]) et beaucoup de patience.
+Le tissu sélectionné initialement, fausse peau de mouton double face, ne convenait pas du tout au patron qui inclut une doublure. Après quelques essais j’ai abandonné le tissu double face et suis retournée aux [Coupons de Saint Pierre][1] pour un faux cuir (que j’avais déjà repéré lors de mon premiers achat) et une fausse fourrure noire. Ces tissus ne sont pas facile à couper, je recommande dans ce cas un cutter rotatif (le mien vient de chez [Rascol][4]) et beaucoup de patience.
 
 ## Matériel
 
