@@ -61,10 +61,6 @@ header.layout-post a, header.layout-about a{
   width: 100%;
 }
 
-.main_photo{
-  width: 100%;
-}
-
 .post_preview_wrapper {
   margin: 30px 10px;
   border-radius: 5px;
@@ -204,7 +200,6 @@ header.layout-post a, header.layout-about a{
 }
 
 /************* NAV ****************/
-
 nav {
   text-align: center;
   text-transform: uppercase;
@@ -260,7 +255,14 @@ nav a:hover {
 /************* SINGLE POST ****************/
 
 .single_post{
-  margin-top: 30px;
+  margin: 30px auto 0px auto;
+  max-width: 800px;
+}
+
+.main_photo{
+  max-width: 920px;;
+  margin: auto;
+  display: block;
 }
 
 .single_post p{
@@ -291,7 +293,10 @@ nav a:hover {
 }
 
 #detail_photos img{
-  width: 100%;
+  max-width: 1024px;
+  max-height: 700px;
+  margin: auto;
+  display: block;
 }
 
 .comments {
@@ -320,6 +325,7 @@ footer a{
   .bg_opaque{
     height: 300px;
   }
+
 }
 
 @media all and (max-width: 770px) {
@@ -331,5 +337,9 @@ footer a{
   .small-nav {
     text-align: center !important;
     border: 1px solid green;
+  }
+
+  #detail_photos img, .main_photo{
+    width: 100%;
   }
 }
