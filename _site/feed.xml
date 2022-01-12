@@ -6,7 +6,19 @@
 </description>
 		<link>http://localhost:4000</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-		<lastBuildDate>Sat, 09 May 2020 00:00:00 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0100</lastBuildDate>
+		
+			<item>
+				<title>Blouson aviateur</title>
+				
+				<description>&lt;p&gt;L’histoire de ce blouson a débuté avec l’achat d’une fausse fourrure imitation peau de mouton aux [1][Coupons de Saint Pierre]. J’ai cherché pendant un petit moment le modèle de blouson que j’avais en tête et suis tombée sur le patron [2][Carly Aviator Jacket] de chez [3][Style Arc]. Une marque de patron inconnue pour moi mais qui vaut le détour pour ce blouson.&lt;/p&gt;
+
+&lt;p&gt;</description>
+				<pubDate>Wed, 12 Jan 2022 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/manteau-aviateur/</link>
+				<guid isPermaLink="true">http://localhost:4000/manteau-aviateur/</guid>
+        <media:thumbnail url="http://ps-made.com/assets/photos/manteau-aviateur/main.jpg" />
+			</item>
 		
 			<item>
 				<title>Chaussons pour bébé</title>
