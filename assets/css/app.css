@@ -346,6 +346,6 @@ footer a{
   }
 
   #detail_photos img, .main_photo{
-    width: 100%;
+    max-width: 100%;
   }
 }
