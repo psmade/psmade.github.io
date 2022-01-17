@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
-		<title></title>
+    <title>PSMade - Blog de couture</title>
 		<description>Blog de couture où je partage mes réalisations homemade, des astuces techniques, mes bonnes adresses de tissu et les marques de patron qui m&apos;inspirent.
 </description>
 		<link>http://localhost:4000</link>
@@ -11,231 +11,5987 @@
 			<item>
 				<title>Blouson aviateur</title>
 				
-				<description>&lt;p&gt;L’histoire de ce blouson a débuté avec l’achat d’une fausse fourrure imitation peau de mouton aux &lt;a href=&quot;https://les-coupons-de-saint-pierre.fr/fr/&quot;&gt;Coupons de Saint Pierre&lt;/a&gt;. J’ai cherché pendant un petit moment le modèle de blouson que j’avais en tête et suis tombée sur le patron &lt;a href=&quot;https://www.stylearc.com/shop/sewing-patterns/carly-aviator-jacket/&quot;&gt;Carly Aviator Jacket&lt;/a&gt; de chez &lt;a href=&quot;https://www.stylearc.com/&quot;&gt;Style Arc&lt;/a&gt;. Une marque de patron inconnue pour moi mais qui vaut le détour pour ce blouson.&lt;/p&gt;
+        <description>
+          &lt;p&gt;L’histoire de ce blouson a débuté avec l’achat d’une fausse fourrure imitation peau de mouton aux &lt;a href=&quot;https://les-coupons-de-saint-pierre.fr/fr/&quot;&gt;Coupons de Saint Pierre&lt;/a&gt;. J’ai cherché pendant un petit moment le modèle de blouson que j’avais en tête et suis tombée sur le patron &lt;a href=&quot;https://www.stylearc.com/shop/sewing-patterns/carly-aviator-jacket/&quot;&gt;Carly Aviator Jacket&lt;/a&gt; de chez &lt;a href=&quot;https://www.stylearc.com/&quot;&gt;Style Arc&lt;/a&gt;. Une marque de patron inconnue pour moi mais qui vaut le détour pour ce blouson.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//manteau-aviateur/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+
+&lt;p&gt;La patron &lt;a href=&quot;https://www.stylearc.com/shop/sewing-patterns/carly-aviator-jacket/&quot;&gt;Carly Aviator Jacket&lt;/a&gt; est un patron d’un bon niveau avec beaucoup de détail, mais il correspondait exactement à ce que j’avais en tête. Bien entendu il faut être prêt à découper un grand nombre de pièces. Le patron PDF est facilement téléchargeable, mais long à assembler comme tout patron avec de nombreuses pièces. Les explications par contre sont uniquement en anglais, ce qui m’a permis de me lancer dans un exercice de traduction. Il est assez amusant de voir qu’en anglais tous les types de points sont des déclinaisons de « stitch » : cover switch, under stitch, stitch in the ditch ….&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;Le tissu sélectionné initialement, fausse peau de mouton double face, ne convenait pas du tout au patron qui inclut une doublure. Après quelques essais j’ai abandonné le tissu double face et suis retournée aux &lt;a href=&quot;https://les-coupons-de-saint-pierre.fr/fr/&quot;&gt;Coupons de Saint Pierre&lt;/a&gt; pour un faux cuir (que j’avais déjà repéré lors de mon premiers achat) et une fausse fourrure noire. Ces tissus ne sont pas facile à couper, je recommande dans ce cas un cutter rotatif (le mien vient de chez &lt;a href=&quot;https://www.rascol.com/cutter-rotatif-rascol-45-mm-p-2536095&quot;&gt;Rascol&lt;/a&gt;) et beaucoup de patience.&lt;/p&gt;
+
+&lt;h2 id=&quot;matériel&quot;&gt;Matériel&lt;/h2&gt;
+
+&lt;p&gt;Au delà du tissu, il y a besoin des quelques matériels complémentaires et qui n’ont pas été si simples à trouver :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Boucles pour la ceinture et le col : je voulais des boucles coordonnées, mais comme elles ne sont pas de la même taille, elles ont été difficile à trouver. Celles que j’ai utilisées viennent de chez &lt;a href=&quot;https://www.tissusreine.com/&quot;&gt;Tissus Reine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Oeillets : Ici aussi de taille différentes pour la taille et le col que j’ai également achetés chez &lt;a href=&quot;https://www.tissusreine.com/&quot;&gt;Tissus Reine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Fermetures éclair : Le zip principal n’a pas une taille standard, j’ai donc regardé un bon nombre de tutos sur comment raccourcir un zip en métal avec une tenaille russe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;trucs-et-astuces&quot;&gt;Trucs et astuces&lt;/h2&gt;
+
+&lt;p&gt;Les surpiqures : toutes les coutures extérieures visibles sont surpiquées avec une aiguille double dans les explications. J’ai rapidement trouvé que cela faisait trop (la ligne de couture plus deux surpiqures). J’ai opté pour une simple ligne de surpiqure. Afin qu’elle soit toujours à la même largeur, j’ai utilisé un &lt;a href=&quot;https://www.janome.fr/accessoires/97-pied-patchwork-14-inch.html&quot;&gt;pied spécial patchwork&lt;/a&gt; qui permet de piquer à 1/4 inch soit un peu plus de 6 mm.&lt;/p&gt;
+
+&lt;p&gt;Les poches passepoilées zippées : Ce sont probablement elles qui m’ont pris le plus de temps et pour les réaliser j’ai regardé plusieurs tutos sur internet, je m’y suis reprise à plusieurs fois mais je suis plutôt contente du résultat. J’ai répliqué cette technique pour faire des gigoteuses à ma fille dont je vous parlerai dans un prochain article.&lt;/p&gt;
+
+&lt;p&gt;Les aiguilles spécial cuir : un indispensable pour ce manteau, il y a parfois plusieurs épaisseurs de cuir à assembler et sans ces aiguilles à tête pointues, je ne pense pas que ce soit possible.&lt;/p&gt;
+
+&lt;p&gt;Et mon dernier conseil : Ne pas se décourager ! Un manteau comme celui là prend un temps infini à monter. J’ai trouvé sur youtube &lt;a href=&quot;https://www.youtube.com/watch?v=4JQvpgE4xnA&quot;&gt;une vidéo&lt;/a&gt; d’une couturière qui s’est filmée pendant le montage du même modèle. Je recommande! Il y a des hauts, des bas…. Mais un vrai manteau à la fin : ça aide à se sentir moins seule quand on se lance dans un long projet.&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-aviateur/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-aviateur/detail2.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-aviateur/detail3.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-aviateur/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-aviateur/detail5.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-aviateur/detail6.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-aviateur/detail7.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-aviateur/detail8.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Wed, 12 Jan 2022 00:00:00 +0100</pubDate>
 				<link>http://localhost:4000/manteau-aviateur/</link>
 				<guid isPermaLink="true">http://localhost:4000/manteau-aviateur/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/manteau-aviateur/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/manteau-aviateur/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/manteau-aviateur/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/manteau-aviateur/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Chaussons pour bébé</title>
 				
-				<description>&lt;p&gt;Les chaussons pour bébé vendus en boutique sont toujours très jolis, mais parfois assez cher surtout s’ils sont en cuir véritable. Au final les fabriquer soi même demande peu de tissu et c’est même rapide et simple. N’hésitez pas à sauter le pas ça vaut vraiment le coup.&lt;/p&gt;
+        <description>
+          &lt;p&gt;Les chaussons pour bébé vendus en boutique sont toujours très jolis, mais parfois assez cher surtout s’ils sont en cuir véritable. Au final les fabriquer soi même demande peu de tissu et c’est même rapide et simple. N’hésitez pas à sauter le pas ça vaut vraiment le coup.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//chaussons-bebe/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+
+&lt;p&gt;Il existe beaucoup de patrons pour ce type de chaussons sur internet, et de différentes formes ou montage. Je suis allée au plus classique et j’ai choisi le patron gratuit en ligne avec le tuto &lt;a href=&quot;http://data.over-blog-kiwi.com/0/54/60/44/20170329/ob_a51328_tutoriel-chaussons-bebe-4-tailles-cu.pdf&quot;&gt;ici&lt;/a&gt;. Le patron présente l’avantage d’avoir 4 tailles et chacune s’imprime facilement sur une page A4.&lt;/p&gt;
+
+&lt;p&gt;Le patron propose une décoration papillon. N’étant pas une experte de la manipulation du simili cuir, je suis restée très basique et j’ai préféré jouer avec les couleurs assorties et les doublures.&lt;/p&gt;
+
+&lt;p&gt;Je n’ai pas exactement suivi le montage indiqué dans le tutoriel avec le patron, car le modèle est sans doublure et en cuir uniquement. J’ai plutôt suivi les instructions de montage de ce &lt;a href=&quot;http://madamecaro.canalblog.com/archives/2013/04/01/26804761.html&quot;&gt;tutoriel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu-etc&quot;&gt;Tissu etc.&lt;/h2&gt;
+
+&lt;p&gt;Pour le tissu extérieur, j’ai utilisé deux coupons de simili cuir trouvés à la mercerie &lt;a href=&quot;https://www.frou-frou-mercerie-contemporaine.com/&quot;&gt;Frou-Frou&lt;/a&gt;. Cette mercerie vend très souvent des coupons de tissus très jolis dont le métrage est idéal pour fabriquer des vêtements ou accessoires pour enfants.&lt;/p&gt;
+
+&lt;p&gt;J’ai confectionné le premier modèle en vert pâle et j’ai contrasté la semelle avec du gris. Dans l’idéal, lorsqu’il s’agit de vrai cuir, il est mieux de retourner le cuir sur l’envers pour la semelle et ainsi avoir la partie non lisse à l’extérieur. Ici le simili cuir n’est pas forcément très « joli » sur son envers, et pour un bébé de 6 mois qui est loin de marcher, c’est surtout esthétique. J’ai réalisé la doublure avec un tissu coton coloré, toujours de la même boutique.&lt;/p&gt;
+
+&lt;p&gt;Pour le second modèle , je voulais quelque chose de beaucoup plus chaud, mais en même temps qui ne soit pas trop épais. La fausse fourrure ou le polaire a souvent tendance à glisser et aurait été difficile à coudre pour une pièce aussi petite. J’ai trouvé (toujours à la mercerie &lt;a href=&quot;https://www.frou-frou-mercerie-contemporaine.com/&quot;&gt;Frou-Frou&lt;/a&gt;) des planches de feutrine de laine avec de très jolies couleurs. C’est la doublure idéale pour des chausson d’hiver: facile à travailler, peu épaisse (quelques millimètres) et en laine donc avec d’excellentes propriétés thermiques!&lt;/p&gt;
+
+&lt;p&gt;A vous de jouer!&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/chaussons-bebe/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/chaussons-bebe/detail2.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/chaussons-bebe/detail3.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Sat, 09 May 2020 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/chaussons-bebe/</link>
 				<guid isPermaLink="true">http://localhost:4000/chaussons-bebe/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/chaussons-bebe/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/chaussons-bebe/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/chaussons-bebe/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/chaussons-bebe/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Wax power</title>
 				
-				<description>&lt;p&gt;Il y a quelque temps une amie m’a rapporté du tissu wax avec lequel j’ai fait plusieurs petites choses. La grande nouveauté pour moi : le headband.&lt;/p&gt;
+        <description>
+          &lt;p&gt;Il y a quelque temps une amie m’a rapporté du tissu wax avec lequel j’ai fait plusieurs petites choses. La grande nouveauté pour moi : le headband.&lt;/p&gt;
 
 &lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
 
 &lt;p&gt;Je ne savais pas du tout comment m’y prendre et j’ai trouvé sur internet un pas à pas sur le &lt;a href=&quot;https://blog.les-coupons-de-saint-pierre.fr/2018/01/19/diy-headband-boheme/&quot;&gt;blog des Coupons de Saint Pierre&lt;/a&gt;. Les explications sont très claires et détaillées, et la réalisation a été super simple et très rapide. Le blog est très bien illustré avec plein de photos pour les différentes étapes du montage.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//wax-headband/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;J’ai utilisé un coupon de Wax rapporté de voyage par une amie. En tout on a besoin uniquement de 50 cm de tissu (en 1m40 de large) et d’à peine 1h de son temps ! Alors foncez !&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/wax-headband/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/wax-headband/detail2.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/wax-headband/</link>
 				<guid isPermaLink="true">http://localhost:4000/wax-headband/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/wax-headband/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/wax-headband/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/wax-headband/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/wax-headband/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Boîtes de rangement</title>
 				
-				<description>&lt;p&gt;En regardant mon blog, je me rends compte que je n’ai pas publié d’article depuis l’hiver dernier… il me faut donc remédier à cela. En effet je n’ai pas été improductive depuis 1 an, mais j’ai diversifié mes activités couture en réalisant des pièces pour la maison. J’ai été très occupée à de nouvelles activités, aussi bien professionnelles que personnelles, la plus prenante de toutes : devenir maman :)&lt;/p&gt;
+        <description>
+          &lt;p&gt;En regardant mon blog, je me rends compte que je n’ai pas publié d’article depuis l’hiver dernier… il me faut donc remédier à cela. En effet je n’ai pas été improductive depuis 1 an, mais j’ai diversifié mes activités couture en réalisant des pièces pour la maison. J’ai été très occupée à de nouvelles activités, aussi bien professionnelles que personnelles, la plus prenante de toutes : devenir maman :)&lt;/p&gt;
 
 &lt;p&gt;D’habitude j’adore fabriquer des vêtements pour moi ou mon  entourage en réalisant des pièces uniques, adaptées à la morphologie de chacun et que je peux garder longtemps. Acheter des vêtements pas cher, de qualité moyenne et que l’on donne ou jette à chaque saison, ce n’est pas ma philosophie.
 Je n’ai cependant pas réalisé de pièces pour femme enceinte pendant ma grossesse, je ne voulais pas investir trop de temps et d’énergie dans des vêtements que je n’allai porter que quelques semaines dans ma vie. J’ai donc pris le parti de réaliser des accessoires pour futur bébé ou pour l’aménagement de la maison en prévision de son arrivée.&lt;/p&gt;
 
 &lt;p&gt;Dans cet article je vous explique comment j’ai fabriqué des boîtes de rangements adaptées à ma salle de bain, afin d’avoir tous les accessoires pour le change à portée de main. Si vous avez déjà eu un bébé vous savez à quel point il est important d’avoir tout ce qu’il faut sous la main et de ne pas se contorsionner pour aller chercher une nouvelle couche #maldedosdesmamans.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//boites-rangement/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+
+&lt;p&gt;Pas de patron pour ce type de réalisation, j’ai simplement regardé des tutos sur Youtube afin de connaitre la méthode. Je voulais créer des boîtes doublées et il existe une multitude de vidéos qui expliquent comment faire. Je vous mets en &lt;a href=&quot;https://www.youtube.com/watch?v=lWhaAM4yDrQ&quot;&gt;lien&lt;/a&gt; un très bon exemple.&lt;/p&gt;
+
+&lt;h2 id=&quot;patron-sur-mesure&quot;&gt;Patron sur mesure&lt;/h2&gt;
+
+&lt;p&gt;Je voulais réaliser des boîtes sur mesure afin qu’elle soient adaptées au plan de travail de ma salle de bain, mais aussi à ce qu’on voulait stocker :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1 boite pour les couches&lt;/li&gt;
+  &lt;li&gt;1 boite pour les carrés de coton&lt;/li&gt;
+  &lt;li&gt;1 boite pour le lait / savon&lt;/li&gt;
+  &lt;li&gt;1 boite pour les lingettes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La première étape a été d’acheter le matériel afin de mesurer chaque objet et de déterminer la taille des boîtes à réaliser. Ensuite je me suis un peu creusé la tête avec Thalès et Pythagore et ai finalement trouvé un &lt;a href=&quot;http://maxistitch.blogspot.com/2016/03/tuto-panier-en-tissu-le-super.html&quot;&gt;site parfait&lt;/a&gt; qui explique comment faire. Il met également en ligne un calculateur dans lequel on rentre les dimensions de sa boîte et il donne la dimension des morceaux de tissu à couper, juste parfait!&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;Concernant le tissu, je voulais à l’extérieur un tissu imperméable, afin de protéger le contenu des boîtes en cas d’eau sur le plan de travail, ce qui peut être courant dans une salle de bain.&lt;/p&gt;
+
+&lt;p&gt;J’ai trouvé mon bonheur chez &lt;a href=&quot;https://www.frou-frou-mercerie-contemporaine.com/&quot;&gt;Frou-Frou&lt;/a&gt;. Ils vendent dans l’entrée de leur mercerie des petits coupons de tissu, dont du tissu imperméable. C’est donc là que j’ai acheté et le tissu extérieur, mais également le tissu intérieur à motif ethnique.&lt;/p&gt;
+
+&lt;h2 id=&quot;mercerie&quot;&gt;Mercerie&lt;/h2&gt;
+
+&lt;p&gt;Le type de tissu utilisé laisse des marques! Les épingles en premier lieu laissent des traces. J’ai opté depuis pour des pinces qui permettent de maintenir ce type de tissu sans trace. J’ai trouvé le meilleur rapport qualité / quantité / prix sur &lt;a href=&quot;https://amzn.to/2VgEY1a&quot;&gt;Amazon&lt;/a&gt;. Et attention aux erreurs, une fois la couture faite, si on souhaite la démonter pour la refaire, le premier passage d’aiguille a laissé des traces dans le tissu (comme les épingles) et ça se voit sur le résultats. Donc on réfléchit bien avant de coudre :) (je dis ça mais j’ai moi même recoupé du tissu pour refaire certaines boîtes pour que le résultat soit parfait.&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/boites-rangement/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/boites-rangement/detail2.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/boites-rangement/detail3.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/boites-rangement/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/boites-rangement/detail5.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/boites-rangement/detail6.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Sun, 24 Feb 2019 00:00:00 +0100</pubDate>
 				<link>http://localhost:4000/boites-rangement/</link>
 				<guid isPermaLink="true">http://localhost:4000/boites-rangement/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/boites-rangement/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/boites-rangement/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/boites-rangement/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/boites-rangement/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Macaroni en jersey</title>
 				
-				<description>&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+        <description>
+          &lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
 
 &lt;p&gt;Ici j’ai enfin réalisé le haut &lt;a href=&quot;https://www.aimecommemarie.com/aime-comme-macaroni-9115/&quot;&gt;Aime comme Macaroni&lt;/a&gt; de la marque de patron &lt;a href=&quot;https://www.aimecommemarie.com/&quot;&gt;Aime comme Marie&lt;/a&gt;. Les volants rendent ce petit haut très original et surtout unique ! Avec une couleur sobre (moi j’ai choisi du gris) on obtient un rendu très élégant. J’avais une grande envie de réaliser ce patron, et j’ai déniché le jersey parfait.&lt;/p&gt;
 
 &lt;p&gt;Les patrons de volants sont toujours très étonnants en serpentin, en les coupant on se demande bien ce que ça va donner. La modèle est très bien expliqué pas à pas donc aucun souci de ce côté là. Par contre les bords des volants sont francs, ce qui ne pose pas de souci en réalisant le modèle en jersay mais attention si vous utilisez un autre type de tissu.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//macaroni-en-jersey/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;Le tissu provient d’un coupon réversible gris et noir de chez &lt;a href=&quot;https://www.cousette.com/&quot;&gt;Cousette&lt;/a&gt;. Le coupon le plus doux de leur stand au salon &lt;a href=&quot;https://www.creations-savoir-faire.com/&quot;&gt;CSF&lt;/a&gt; 2017. Je suis tombée dessus en payant mes achats, il était tellement doux que je n’ai pas résisté.&lt;/p&gt;
+
+&lt;h2 id=&quot;technique&quot;&gt;Technique&lt;/h2&gt;
+
+&lt;p&gt;Grosse innovation avec cette réalisation : l’utilisation de ma surjeteuse. On m’en a offert une pour mon anniversaire (il y a plus d’un an) et je ne l’avais jamais utilisée. J’étais surtout inquiète de coudre avec le couteau tout en respectant les valeurs de couture. Avant de me lancer, j’ai regardé plusieurs tutos sur internet, inspecté ma machine sous tous les angles afin de trouver les bons repères.&lt;/p&gt;
+
+&lt;p&gt;La conclusion de mes recherches : Ma surjeteuse coud et coupe à 0,7mm, donc si j’ajoute une valeur de couture de 0,7mm lorsque je découpe mon tissu, je n’ai plus qu’à faire correspondre le bord du tissu et le repère de la machine : le couteau de la surjeteuse rase alors à peine le tissu. Bien sûr j’avais découpé mes morceaux de tissus avec une valeur de couture de 1cm avant de me renseigner. Dans ce cas la meilleure solution est à priori de tracer la ligne de couture à 1cm du bord. C’est un peu fastidieux avec du jersey, on oublie les grandes lignes droite et on prend son mal en patience pour tout tracer petit à petit de 5cm en 5cm. Là encore on suit le tracé et le tour est joué.&lt;/p&gt;
+
+&lt;p&gt;PS: Si vous avez une meilleure méthode moins artisanale que la mienne n’hésitez pas :).&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/macaroni-en-jersey/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/macaroni-en-jersey/detail2.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/macaroni-en-jersey/detail3.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/macaroni-en-jersey/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/macaroni-en-jersey/detail5.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/macaroni-en-jersey/detail6.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/macaroni-en-jersey/detail7.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/macaroni-en-jersey/detail8.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Sun, 18 Mar 2018 00:00:00 +0100</pubDate>
 				<link>http://localhost:4000/macaroni-en-jersey/</link>
 				<guid isPermaLink="true">http://localhost:4000/macaroni-en-jersey/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/macaroni-en-jersey/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/macaroni-en-jersey/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/macaroni-en-jersey/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/macaroni-en-jersey/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Marinière couleur d&apos;automne</title>
 				
-				<description>&lt;p&gt;Encore une nouvelle réalisation du livre &lt;a href=&quot;http://amzn.to/2nragTH&quot;&gt;Dressing Chic&lt;/a&gt;.
+        <description>
+          &lt;p&gt;Encore une nouvelle réalisation du livre &lt;a href=&quot;http://amzn.to/2nragTH&quot;&gt;Dressing Chic&lt;/a&gt;.
 Cette fois ci il s’agit d’un petit top à encolure carrée et aux motifs géométriques de couleur automnales.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//mariniere-bleue/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+
+&lt;p&gt;La patron provient d’un livre que j’ai depuis très longtemps : &lt;a href=&quot;http://amzn.to/2nragTH&quot;&gt;Dressing Chic&lt;/a&gt;. Plusieurs modèle sur le site proviennent déjà de ce livre, comme la &lt;a href=&quot;http://ps-made.com/robe-kimono/&quot;&gt;robe kimono&lt;/a&gt; ou la &lt;a href=&quot;http://ps-made.com/robe-epaule-nouee/&quot;&gt;robe à épaule nouée&lt;/a&gt;. Bref un super livre avec des intemporels très bien expliqués.&lt;/p&gt;
+
+&lt;p&gt;Le modèle est assez simple avec des manches type kimono. L’encolure est carrée et rend le modèle intemporel. Un petit détail en plus: des pattes aux épaules et à la taille.&lt;/p&gt;
+
+&lt;h2 id=&quot;modifications&quot;&gt;Modifications&lt;/h2&gt;
+
+&lt;p&gt;La seule modification que j’ai apportée ici ce sont les pattes qui à la base sont au niveau des hanches, mais que j’ai déplacé au niveau de la taille.&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;Le tissu que j’ai utilisé est une viscose du chez &lt;a href=&quot;http://www.tissus-reine.com/&quot;&gt;Reine&lt;/a&gt;. Une petite merveille aux motifs géométriques et des couleurs très automnales.&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/mariniere-bleue/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/mariniere-bleue/detail2.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/mariniere-bleue/detail3.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/mariniere-bleue/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/mariniere-bleue/detail5.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/mariniere-bleue/detail6.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Tue, 30 Jan 2018 00:00:00 +0100</pubDate>
 				<link>http://localhost:4000/mariniere-bleue/</link>
 				<guid isPermaLink="true">http://localhost:4000/mariniere-bleue/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/mariniere-bleue/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/mariniere-bleue/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/mariniere-bleue/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/mariniere-bleue/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Manteau au grand col</title>
 				
-				<description>&lt;p&gt;Deuxième manteau de la saison, indispensable au vu du temps. Celui ci a une coupe ample, un boutonnage simple et un immense col cranté, bref un rendu sobre et oversize.&lt;/p&gt;
+        <description>
+          &lt;p&gt;Deuxième manteau de la saison, indispensable au vu du temps. Celui ci a une coupe ample, un boutonnage simple et un immense col cranté, bref un rendu sobre et oversize.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//manteau-grand-col/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+
+&lt;p&gt;Le modèle vient du magazine &lt;a href=&quot;https://www.faitmain-magazine.fr/fait-main-pas-a-pas/show/all.htm&quot;&gt;Fait Main pas à pas&lt;/a&gt; (le numéro du mois de &lt;a href=&quot;https://www.faitmain-magazine.fr/fait-main-418-novembre-2016.html&quot;&gt;novembre 2016&lt;/a&gt;). Cela fait un petit moment donc qu’il est sur mon étagère avec un marque page spécial pour ce manteau.&lt;/p&gt;
+
+&lt;p&gt;C’était la première fois que je réalisais un manteau avec un col cranté. Les étapes de montage sont très bien décrites dans le cahier d’explication du magazine et au final le montage était très simple.&lt;/p&gt;
+
+&lt;p&gt;Les poches aussi m’ont fait peur : des poches de type ville (merci internet). Là aussi étape par étape le montage est bien expliqué. Je trouvé qu’il y a beaucoup de similitude entre ce montage et celui des pattes de boutonnage.&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;Pour le tissu j’ai utilisé une laine de chez &lt;a href=&quot;https://www.sacres-coupons.com/&quot;&gt;Sacrés Coupons&lt;/a&gt; bleu marine. Elle est très douce et très agréable à coudre, un vrai bonheur un tissu épais que se pique si délicatement. La doublure est en polyester bleu marine également.&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-grand-col/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-grand-col/detail2.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-grand-col/detail3.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-grand-col/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-grand-col/detail5.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-grand-col/detail6.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-grand-col/detail7.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/manteau-grand-col/detail8.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Mon, 25 Dec 2017 00:00:00 +0100</pubDate>
 				<link>http://localhost:4000/manteau-grand-col/</link>
 				<guid isPermaLink="true">http://localhost:4000/manteau-grand-col/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/manteau-grand-col/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/manteau-grand-col/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/manteau-grand-col/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/manteau-grand-col/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Manteau Raymond en laine</title>
 				
-				<description>&lt;p&gt;J’ai commandé le patron de ce manteau chez &lt;a href=&quot;http://republiqueduchiffon.com/fr/&quot;&gt;République du chiffon&lt;/a&gt; l’année dernière. Pour ma première réalisation de cette marque, j’ai choisi &lt;a href=&quot;http://republiqueduchiffon.com/fr/accueil/54-manteau-raymond.html&quot;&gt;Raymond&lt;/a&gt;, un grand manteau pour l’hiver. Le col original permet de porter en hiver les grosses écharpes que j’affectionne tant.&lt;/p&gt;
+        <description>
+          &lt;p&gt;J’ai commandé le patron de ce manteau chez &lt;a href=&quot;http://republiqueduchiffon.com/fr/&quot;&gt;République du chiffon&lt;/a&gt; l’année dernière. Pour ma première réalisation de cette marque, j’ai choisi &lt;a href=&quot;http://republiqueduchiffon.com/fr/accueil/54-manteau-raymond.html&quot;&gt;Raymond&lt;/a&gt;, un grand manteau pour l’hiver. Le col original permet de porter en hiver les grosses écharpes que j’affectionne tant.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//raymond-rose/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+
+&lt;p&gt;Modèle simple, mais avec des détails très sympa: le col ouvert, les manches raglan et les poches démesurées. Principale difficulté pour moi : première doublure! République du chiffon donne des explications très claires mais également une démo pas à pas en ligne très bien faite (de la veste Michelle mais complètement transposable pour Raymond). Il est aussi précisé que le patron taille grand et c’est vrai!&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;Pour le modèle j’ai choisi un lainage de chez &lt;a href=&quot;https://www.sacres-coupons.com/&quot;&gt;Sacrés Coupons&lt;/a&gt; qui garantit de ne jamais avoir froid. La doublure est faite en satin rose et les boutons assortis viennent de ma mercerie de quartier : la mercerie Gérard (mon sauveur de couture du weekend :) ).&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/raymond-rose/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/raymond-rose/detail2.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/raymond-rose/detail3.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/raymond-rose/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Sun, 03 Dec 2017 00:00:00 +0100</pubDate>
 				<link>http://localhost:4000/raymond-rose/</link>
 				<guid isPermaLink="true">http://localhost:4000/raymond-rose/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/raymond-rose/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/raymond-rose/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/raymond-rose/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/raymond-rose/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Jupe couleur d’automne</title>
 				
-				<description>&lt;p&gt;Parfaite jupe pour l’arrière saison, avec une couleur adaptée : feuilles mortes ou Halloween, à vous de voir. En tout cas un belle opportunité de donner de la couleur au gris environnant.&lt;/p&gt;
+        <description>
+          &lt;p&gt;Parfaite jupe pour l’arrière saison, avec une couleur adaptée : feuilles mortes ou Halloween, à vous de voir. En tout cas un belle opportunité de donner de la couleur au gris environnant.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//jupe-automne/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+
+&lt;p&gt;Le patron provient d’un livre acheté au &lt;a href=&quot;https://www.creations-savoir-faire.com/&quot;&gt;CSF&lt;/a&gt; de l’année dernière : &lt;a href=&quot;http://amzn.to/2i5v193&quot;&gt;Ma garde-robe à coudre toute l’année&lt;/a&gt;, de l’&lt;a href=&quot;https://ateliercharlotteauzou.com/en/&quot;&gt;atelier Charlotte Anzou&lt;/a&gt;. Un super bouquin plein de modèles. Une tenue complète par mois y est détaillée : vêtements, accessoires, tout y est.&lt;/p&gt;
+
+&lt;p&gt;Ici il s’agit d’un savant mélange entre la jupe du mois de mai, courte, et la jupe du mois d’aout, longue. J’ai décidé de réaliser une longueur mi-mollet pour la saison. Réalisation très facile, avec une forme de ceinture très sympa. Attention il faut savoir faire des km de fronces, mais les explications du livre de dont très bien faites à ce sujet.&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;J’avais acheté cette viscose orange il y a quelques temps, chez &lt;a href=&quot;https://www.sacres-coupons.com/&quot;&gt;Sacrés coupons&lt;/a&gt; (au fur et à me sure du blog je me rends compte que presque toutes mes réalisations sont faites avec du tissu de ce magasin, à n’en pas douter ma boutique préférée). J’ai longtemps conservé le coupon avant de trouver quoi en faire : la couleur est vive, mais le tissu est trop épais pour une jupe ou une robe d’été. Les boutons eux viennent de ma mercerie de quartier : la mercerie Gérard.&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/jupe-automne/detail1.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/jupe-automne/detail2.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/jupe-automne/detail3.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/jupe-automne/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/jupe-automne/detail5.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Sat, 25 Nov 2017 00:00:00 +0100</pubDate>
 				<link>http://localhost:4000/jupe-automne/</link>
 				<guid isPermaLink="true">http://localhost:4000/jupe-automne/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/jupe-automne/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/jupe-automne/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/jupe-automne/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/jupe-automne/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Passion combinaison</title>
 				
-				<description>&lt;p&gt;Le concours &lt;a href=&quot;https://www.louisantoinette.com/hacklamode.html&quot;&gt;Hacklamode&lt;/a&gt; des patrons &lt;a href=&quot;https://www.louisantoinette.com/&quot;&gt;Louis Antoinette Paris&lt;/a&gt; a lancé sa 3ème édition au mois d’octobre. Les participants devaient rendre leur copie pour le 5 novembre, et dans cet article je vous explique les détails de ma participation . Le patron du concours est celui de la robe &lt;a href=&quot;https://www.louisantoinette.com/patrons/robes-2/robe-alma-patron-1-html.html&quot;&gt;Alma&lt;/a&gt; et j’ai choisi de participer dans la catégorie “Hack du patron”. Vous trouverez tous les détails du concours &lt;a href=&quot;https://www.louisantoinette.com/hacklamode.html&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
+        <description>
+          &lt;p&gt;Le concours &lt;a href=&quot;https://www.louisantoinette.com/hacklamode.html&quot;&gt;Hacklamode&lt;/a&gt; des patrons &lt;a href=&quot;https://www.louisantoinette.com/&quot;&gt;Louis Antoinette Paris&lt;/a&gt; a lancé sa 3ème édition au mois d’octobre. Les participants devaient rendre leur copie pour le 5 novembre, et dans cet article je vous explique les détails de ma participation . Le patron du concours est celui de la robe &lt;a href=&quot;https://www.louisantoinette.com/patrons/robes-2/robe-alma-patron-1-html.html&quot;&gt;Alma&lt;/a&gt; et j’ai choisi de participer dans la catégorie “Hack du patron”. Vous trouverez tous les détails du concours &lt;a href=&quot;https://www.louisantoinette.com/hacklamode.html&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//passion-combinaison/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;modifications-du-haut&quot;&gt;Modifications du haut&lt;/h2&gt;
+
+&lt;p&gt;Pour le haut J’ai gardé les mêmes pièces du devant, du dos et des manches et les ai découpées horizontalement au niveau des épaules. J’ai ensuite créé un empiècement de 4cm de large que j’ai ajouté afin de pouvoir y glisser un élastique de 2 cm de large. J’ai gardé le dos boutonné, avec en conséquence un bouton en moins.&lt;/p&gt;
+
+&lt;h2 id=&quot;modifications-du-bas&quot;&gt;Modifications du bas&lt;/h2&gt;
+
+&lt;p&gt;C’est sur le bas que j’ai réalisé le plus de modifications. J’ai tellement envie en ce moment de pantalons hyper larges type palazzo que j’ai acheté un modèle sur le site Burda, &lt;a href=&quot;http://amzn.to/2jmLW73&quot;&gt;le n°6966&lt;/a&gt;. La patron propose deux modèles, avec deux largeurs différentes. Le pantalon se ferme avec une fermeture dans le dos, parfait avec la fermeture dos de la robe &lt;a href=&quot;https://www.louisantoinette.com/patrons/robes-2/robe-alma-patron-1-html.html&quot;&gt;Alma&lt;/a&gt;. L’idée était là : Une combinaison.
+Comme le haut faisait estival, j’ai coupé le modèle de patron du pantalon à mi mollet. Le patron n’avait pas de poches, mais la robe [Alma] oui, et moi je ne porte rien sans poches . Je les ai donc ajoutées sur la combinaison : et hop on tire le meilleur parti de chaque modèle.&lt;/p&gt;
+
+&lt;p&gt;Afin de lier le haut et le bas, le haut étant plus large, je l’ai froncé afin de le faire correspondre à la largeur du pantalon. Les fronces à la taille renvoient aux fronces des épaules, ce qui va bien avec le modèle.&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;Pour le bas  de la combinaison j’avais une pièce de coton beige à petites rayures dans mes tissus depuis longtemps qui ne demandait qu’à être utilisé. Pour le haut, j’ai opté pour un &lt;a href=&quot;https://prettymercerie.com/plumetis/4182-tissu-coton-plumetis-blanc.html&quot;&gt;tissu plumetis blanc&lt;/a&gt; de chez &lt;a href=&quot;https://prettymercerie.com/&quot;&gt;Pretty Mercerie&lt;/a&gt;. Je trouve le plumetis super joli, mais n’en avais jamais utilisé. J’en ai commandé 2 fois ce dont j’avais besoin pour ajouter également une petite blouse à ma collection maintenant que le concours est fini. Par contre ce plumetis est un peu transparent, j’ai donc doublé la pièce de devant.&lt;/p&gt;
+
+&lt;h2 id=&quot;mercerie&quot;&gt;Mercerie&lt;/h2&gt;
+
+&lt;p&gt;Pour les fournitures de mercerie, comme d’habitude je suis allée chez la mercerie Gérard pour l’élastique, la fermeture éclair invisible et les boutons : j’ai mis du temps à choisir entre blanc et beige, difficile de trouver ce qui allait parfaitement . Au final j’ai opté pour des boutons de nacre qui vont avec le haut comme le bas de la combinaison.&lt;/p&gt;
+
+&lt;p&gt;Je n’ai malheureusement pas été sélectionnée parmi les finalistes, mais je suis quand même fière de ma création . Je vous encourage à aller voir les résultats &lt;a href=&quot;https://www.facebook.com/LouisAntoinetteParis/&quot;&gt;ici&lt;/a&gt;, les participantes ont vraiment fait des merveilles.&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/passion-combinaison/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/passion-combinaison/detail2.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/passion-combinaison/detail3.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/passion-combinaison/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/passion-combinaison/detail5.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/passion-combinaison/detail6.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Sun, 12 Nov 2017 00:00:00 +0100</pubDate>
 				<link>http://localhost:4000/passion-combinaison/</link>
 				<guid isPermaLink="true">http://localhost:4000/passion-combinaison/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/passion-combinaison/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/passion-combinaison/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/passion-combinaison/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/passion-combinaison/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Top Monique bleu canard</title>
 				
-				<description>&lt;p&gt;Ce joli top provient de l’une des premières collections de &lt;a href=&quot;http://republiqueduchiffon.com/fr/&quot;&gt;République du chiffon&lt;/a&gt;. Un site de patrons formidable, à chaque nouvelle collection je résiste pour ne pas tout commander. D’ailleurs la dernière vient de sortir, n’hésitez pas à aller faire un tour sur &lt;a href=&quot;http://republiqueduchiffon.com/fr/19-boutique&quot;&gt;leur boutique en ligne&lt;/a&gt; !&lt;/p&gt;
+        <description>
+          &lt;p&gt;Ce joli top provient de l’une des premières collections de &lt;a href=&quot;http://republiqueduchiffon.com/fr/&quot;&gt;République du chiffon&lt;/a&gt;. Un site de patrons formidable, à chaque nouvelle collection je résiste pour ne pas tout commander. D’ailleurs la dernière vient de sortir, n’hésitez pas à aller faire un tour sur &lt;a href=&quot;http://republiqueduchiffon.com/fr/19-boutique&quot;&gt;leur boutique en ligne&lt;/a&gt; !&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//top-monique/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+
+&lt;p&gt;Aujourd’hui c’est le patron &lt;a href=&quot;http://republiqueduchiffon.com/fr/accueil/26-robetop-monique.html&quot;&gt;Monique&lt;/a&gt; que j’ai mis à l’honneur. Il existe en version top ou robe. Il est très original, et découvre juste ce qu’il faut au niveau des épaules, bref le top idéal. Contrairement à d’habitude, aucune modification, à part augmenter la hauteur du buste.&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu-etc&quot;&gt;Tissu etc.&lt;/h2&gt;
+
+&lt;p&gt;J’ai opté pour cette version pour une viscose bleu canard de chez &lt;a href=&quot;https://www.sacres-coupons.com/&quot;&gt;Sacrés coupons&lt;/a&gt;. La doublure ton sur ton vient du &lt;a href=&quot;http://www.marchesaintpierre.com/&quot;&gt;marché Saint Pierre&lt;/a&gt;. Le collier quant à lui vient de chez Studionat, une marque Italienne, qui fait beaucoup de bijoux géométriques à base de bois. Allez voir leurs créations sur &lt;a href=&quot;https://www.etsy.com/fr/shop/Studionat&quot;&gt;Etsy&lt;/a&gt;!&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/top-monique/detail1.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/top-monique/detail2.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/top-monique/detail3.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/top-monique/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/top-monique/detail5.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/top-monique/detail6.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Sun, 29 Oct 2017 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/top-monique/</link>
 				<guid isPermaLink="true">http://localhost:4000/top-monique/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/top-monique/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/top-monique/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/top-monique/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/top-monique/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>La robe Smoking</title>
 				
-				<description>&lt;p&gt;Le concours &lt;a href=&quot;https://www.louisantoinette.com/hacklamode.html&quot;&gt;Hack la mode saison 3&lt;/a&gt; vient de débuter, alors j’en profite pour vous parler de ma participation à la saison 2. J’ai découvert ce concours de &lt;a href=&quot;http://blog.louisantoinette.com/&quot;&gt;Louis Antoinette&lt;/a&gt; l’année dernière. Je ne connaissais pas leur marque de patron à l’époque mais j’ai tout de suite adhéré !&lt;/p&gt;
+        <description>
+          &lt;p&gt;Le concours &lt;a href=&quot;https://www.louisantoinette.com/hacklamode.html&quot;&gt;Hack la mode saison 3&lt;/a&gt; vient de débuter, alors j’en profite pour vous parler de ma participation à la saison 2. J’ai découvert ce concours de &lt;a href=&quot;http://blog.louisantoinette.com/&quot;&gt;Louis Antoinette&lt;/a&gt; l’année dernière. Je ne connaissais pas leur marque de patron à l’époque mais j’ai tout de suite adhéré !&lt;/p&gt;
 
 &lt;p&gt;Le concept : un patron gratuit en téléchargement, et un concours sur la réalisation à partir de ce patron. Plusieurs catégories sont récompensées : la meilleure association de tissu, le meilleur “hack” du patron, la photo la plus originale… Bref il y en a pour tous les goûts.&lt;/p&gt;
 
 &lt;p&gt;Toutes les réalisations des concurrentes sont visibles sur Instagram avec le #hacklamode ou en vous connectant sur la &lt;a href=&quot;https://pro.iconosquare.com/detail/fr/hacklamodeS2-LouisAntoinette&quot;&gt;plateforme dédiée&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//smoking-dress/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+
+&lt;p&gt;L’année dernière c’est la patron de la marque &lt;a href=&quot;https://www.louisantoinette.com/patrons/robes-2/robe-imagine-hacklamode-patron.html&quot;&gt;Imagine&lt;/a&gt; qui était à l’honneur. J’ai d’abord réalisé une toile, pour voir les différents points techniques, mais aussi pour me donner des idées.&lt;/p&gt;
+
+&lt;h2 id=&quot;modifications&quot;&gt;Modifications&lt;/h2&gt;
+
+&lt;p&gt;Alors là, ce ne sont pas les idées qui ont manquées, mais pas toujours réalisables. Puis mon côté perfectionniste a voulu réaliser une doublure, complexité supplémentaire. Au final la robe m’aura pris pas mal de temps avec les ajustements mais j’ai commencé à me familiariser avec les patrons et leurs modifications.&lt;/p&gt;
+
+&lt;p&gt;J’ai modifié la jupe en la retournant : pli creux et fermeture au niveau du dos. J’ai conservé le devant tel quel. Les épaules ont été découpées pour être plus fines et réaliser une jolie fermeture au dos. La pièce du dos a été presque entièrement supprimée, j’ai juste gardé une partie de chaque côté dans un tissu voile.&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu-etc&quot;&gt;Tissu etc.&lt;/h2&gt;
+
+&lt;p&gt;Pour le tissu, je suis partie sur un noir et blanc, qui donne un effet un peu smoking : une viscose noire pour la robe de chez &lt;a href=&quot;https://www.sacres-coupons.com/&quot;&gt;Sacrés Coupons&lt;/a&gt; et un tissu voile graphique noir et blanc au rayon solde du Marché Saint Pierre. Pour rehausser le tout un passepoil en satin blanc au niveau des épaules et de la taille. Pour le voile transparent il est fini avec un biais en satin noir. Biais et passepoil proviennent de &lt;a href=&quot;https://www.mapetitemercerie.com/en/&quot;&gt;Ma petite mercerie&lt;/a&gt;. Enfin j’ai ajouté des petits boutons blancs nacrés avec une bride satinée blanche pour fermer les épaules, mais aussi la taille. Les boutons viennent de la Mercerie Gerard, ma petite mercerie de quartier ou mon sauveur de couture du weekend.&lt;/p&gt;
+
+&lt;p&gt;J’ai aussi pris le parti d’ajouter une ceinture amovible en satin noire, fermée comme un noeud papillon. L’occasion pour moi d’apprendre à les faire et de découvrir qu’il existe des centaines de cours de noeud papillon sur Youtube.&lt;/p&gt;
+
+&lt;p&gt;Je remercie famille et amis qui n’ont pas hésité à liker ma robe afin de m’aider à monter dans le concours, mais au final, pas de sélection pour moi. Malgré cela je reste ravie de ma création. Non seulement j’ai pu apprendre à me familiariser avec le patronage et l’exigence de précision que cela demande, mais cette robe fut ma tenue du nouvel an 2017 :)&lt;/p&gt;
+
+&lt;p&gt;En tout cas, pas vaincue, je réitère cette année. Cette fois ci c’est le patron &lt;a href=&quot;https://www.louisantoinette.com/patrons/robes-2/robe-alma-patron-1-html.html&quot;&gt;Alma&lt;/a&gt; qui est à l’honneur et j’ai hâte de vous faire découvrir ma création pour le concours - stay tuned !&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/smoking-dress/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/smoking-dress/detail2.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/smoking-dress/detail3.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/smoking-dress/detail4.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/smoking-dress/detail5.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/smoking-dress/detail6.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Sat, 14 Oct 2017 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/smoking-dress/</link>
 				<guid isPermaLink="true">http://localhost:4000/smoking-dress/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/smoking-dress/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/smoking-dress/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/smoking-dress/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/smoking-dress/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Robe Agathe géométrique</title>
 				
-				<description>&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+        <description>
+          &lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
 
 &lt;p&gt;En ce début d’automne j’ai choisi de réaliser la robe Agathe de la série de patrons &lt;a href=&quot;https://coralie-bijasson.com/&quot;&gt;“C’est moi le patron”&lt;/a&gt; de &lt;a href=&quot;https://coralie-bijasson.com/content/4-a-propos&quot;&gt;Coralie Bijasson&lt;/a&gt; . J’ai d’ailleurs réalisé que ce nom me disait quelque chose, c’est l’une des 3 auteurs du livre &lt;a href=&quot;http://amzn.to/2yCvDpd&quot;&gt;Dressing chic&lt;/a&gt; dont j’ai déjà parlé dans d’autres articles &lt;a href=&quot;/robe-kimono/&quot;&gt;ici&lt;/a&gt; et &lt;a href=&quot;/gilet-monceau/&quot;&gt;là&lt;/a&gt; . Donc je peux le dire je suis fan de ses patrons! La robe Agathe est notée en niveau 2, mais la réalisation ne présente pas de difficultés particulières.&lt;/p&gt;
 
 &lt;p&gt;J’apprécie beaucoup les petites manches courtes, très mignonnes et que j’ai recopiées pour d’autres réalisations. La fermeture à glissière invisible faisait aussi partie de mes grandes premières et avec le pied presseur dédié le résultat est super !&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//robe-agathe-geometrique/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;modifications&quot;&gt;Modifications&lt;/h2&gt;
+
+&lt;p&gt;Le modèle présente six plis creux sur la jupe, deux devant au niveau des pinces, deux derrière au niveau des pinces également, et deux sur les côtés. J’ai laissé tomber celles sur les côtés afin d’éviter de souligner encore plus les hanches. En dehors de ça le modèle est parfait !&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;J’ai choisi d’utiliser un tissu aux motifs géométriques acheté dans l’un de mes magasins préférés : &lt;a href=&quot;https://www.sacres-coupons.com/&quot;&gt;Sacrés coupons&lt;/a&gt;. Des coupons de toutes les tailles (majoritairement 1,5 ou 3m) et des tissus toujours très originaux. Je n’en suis jamais ressortie sans rien acheter. Par contre un souci avec un tissu géométrique comme celui ci : les raccords !! Après avoir refait la couture de taille plusieurs fois, je suis plutôt contente du résultat :).&lt;/p&gt;
+
+&lt;p&gt;Les manches et la parementure de ce patron sont entoilées, et pour moi ça s’est terminé avec une série de cloques a la surface du tissu! La partie entoilée est la partie doublure, donc non visible, ouf ! Par contre on ne m’y reprendra pas à acheter de l’entoilage pas cher, depuis c’est la marque &lt;a href=&quot;https://www.vlieseline.com/Produits&quot;&gt;Vlieseline&lt;/a&gt; que j’achète souvent sur le site &lt;a href=&quot;https://www.rascol.com/&quot;&gt;Rascol&lt;/a&gt; (ils ont un énorme choix). Pour l’entoilage fin je prends toujours le fameux &lt;a href=&quot;https://www.stragier.com/fr/article/601157/entoilage-ds1-uni-blanc-150-cm&quot;&gt;entoilage DS1&lt;/a&gt; de &lt;a href=&quot;https://www.stragier.com/fr/home&quot;&gt;Stragier&lt;/a&gt;.&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-agathe-geometrique/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-agathe-geometrique/detail2.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-agathe-geometrique/detail3.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-agathe-geometrique/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-agathe-geometrique/detail5.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-agathe-geometrique/detail6.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-agathe-geometrique/detail7.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-agathe-geometrique/detail8.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/robe-agathe-geometrique/</link>
 				<guid isPermaLink="true">http://localhost:4000/robe-agathe-geometrique/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/robe-agathe-geometrique/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/robe-agathe-geometrique/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/robe-agathe-geometrique/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/robe-agathe-geometrique/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Sweatshirt à capuche</title>
 				
-				<description>&lt;p&gt;La première réalisation qui ne m’est pas destinée est… un sweatshirt pour homme. Simple, gris mais aussi l’occasion de réaliser mes premières modifications de patron, et de pratiquer le jersey à la machine à coudre.&lt;/p&gt;
+        <description>
+          &lt;p&gt;La première réalisation qui ne m’est pas destinée est… un sweatshirt pour homme. Simple, gris mais aussi l’occasion de réaliser mes premières modifications de patron, et de pratiquer le jersey à la machine à coudre.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//sweat-capuche-homme/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+
+&lt;p&gt;Un patron tout simple de chez Burda, &lt;a href=&quot;http://amzn.to/2xaajYm&quot;&gt;le n°7734&lt;/a&gt;. Patron dont la seule complexité de réalisation est le tissu en jersey. Mais je reste assez confiante après la réalisation de &lt;a href=&quot;/gilet-monceau/&quot;&gt;mon gilet Monceau&lt;/a&gt; en jersey également : le point stretch stitch de ma machine va encore m’être utile.&lt;/p&gt;
+
+&lt;h2 id=&quot;modifications&quot;&gt;Modifications&lt;/h2&gt;
+
+&lt;p&gt;Au final après avoir décalqué le patron, j’ai une requête spécifique de l’utilisateur final. En effet la coupe de la capuche est très diverse et variée dans la modèles de sweat du commerce: la hauteur, la largeur et la profondeur varient selon les modèles et ne donnent ni le même effet ni le même confort.&lt;/p&gt;
+
+&lt;p&gt;Certaines ne peuvent pratiquement pas se porter.&lt;/p&gt;
+
+&lt;p&gt;J’ai donc décidé de décalquer sur un sweat existant le modèle de capuche idéale. C’était un peu compliqué de “décalquer” un vêtement existant, tout en conservant la même base que la patron afin que l’encolure reste identique. Au final la capuche et beaucoup plus profonde que sur le modèle, et elle tombe bien - l’utilisateur en est ravi et c’est le principal :)&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;Le tissu est un sweat gris chiné du marché Saint Pierre. Joli tissu, mais comment trouver du bord-côte assorti avec le même gris et le même chiné ? J’ai cherché longtemps et ai décidé d’acheter sur le site &lt;a href=&quot;http://www.un-chat-sur-un-fil.fr/en/&quot;&gt;Un chat sur un fil&lt;/a&gt; qui a beaucoup de bord-côte. Au final la couleur correspond exactement à la photo et au modèle.&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/sweat-capuche-homme/detail1.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/sweat-capuche-homme/detail2.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/sweat-capuche-homme/detail3.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/sweat-capuche-homme/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Tue, 19 Sep 2017 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/sweat-capuche-homme/</link>
 				<guid isPermaLink="true">http://localhost:4000/sweat-capuche-homme/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/sweat-capuche-homme/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/sweat-capuche-homme/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/sweat-capuche-homme/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/sweat-capuche-homme/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Robe avec épaule nouée</title>
 				
-				<description>&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+        <description>
+          &lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
 
 &lt;p&gt;Une nouvelle réalisation faite à partir du livre “&lt;a href=&quot;http://amzn.to/2jBkbYh&quot;&gt;Dressing Chic&lt;/a&gt;”, celui d’où venait déjà &lt;a href=&quot;/robe-kimono/&quot;&gt;la robe kimono&lt;/a&gt;. Robe très bien coupée et confortable. Elle est entièrement doublée et la taille est faite à partir d’un élastique tout simple. L’épaule en noeud est vraiment originale. Les deux morceaux de tissu sont suffisamment long et permettent de réaliser un vrai noeud, mais je préfère souvent faire un noeud simple afin de mieux laisser voir la doublure à cet endroit .&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//robe-epaule-nouee/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;J’ai utilisé ici un jersey bleu marine du &lt;a href=&quot;https://www.marchesaintpierre.com/&quot;&gt;marché Saint Pierre&lt;/a&gt; avec une très jolie doublure graphique du magasin &lt;a href=&quot;https://www.tissusreine.com/&quot;&gt;Reine&lt;/a&gt;. Très pratique car peut être portée avec des baskets pour un esprit tenniswoman ou bien avec des chaussures habillées pour un côté plus hôtesse de l’air - je réfléchirai la prochaine fois avant de mettre cette robe au travail :) .&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-epaule-nouee/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-epaule-nouee/detail2.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-epaule-nouee/detail3.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-epaule-nouee/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-epaule-nouee/detail5.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-epaule-nouee/detail6.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Sun, 17 Sep 2017 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/robe-epaule-nouee/</link>
 				<guid isPermaLink="true">http://localhost:4000/robe-epaule-nouee/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/robe-epaule-nouee/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/robe-epaule-nouee/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/robe-epaule-nouee/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/robe-epaule-nouee/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Gilet Monceau en Jersey</title>
 				
-				<description>&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+        <description>
+          &lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
 
 &lt;p&gt;Ici j’ai voulu réaliser un petit gilet en jersey, et au vu du tissu, j’ai entrepris des modifications. Le jersey que je voulais utiliser m’a plus donné envie d’un sweat cosy qui s’enfile par le col. La base du patron est le gilet Monceau de &lt;a href=&quot;http://cozy-little-world.com/&quot;&gt;Cozy Little World&lt;/a&gt;. Le patron est très facile, peu de pièce et donc rapide à assembler. J’apprécie tout particulièrement l’encolure, ni trop large ni trop serrée.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//gilet-monceau/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;modifications&quot;&gt;Modifications&lt;/h2&gt;
+
+&lt;p&gt;D’origine la boutonnière est sur le devant, et j’ai choisi de la mettre derrière. Pour la transformation j’ai relu un livre de ma bibliothèque: &lt;a href=&quot;http://amzn.to/2eKg2fl&quot;&gt;Le Grand Livre de La Couture&lt;/a&gt;. Inverser dos et devant a finalement été très simple avec les explications très bien illustrées. Pour les boutons, j’ai opté pour des pressions nacrées. A refaire je choisirais des boutons plus plats, avec ce type de pression il est impossible de s’adosser sur une chaise sans être gênée.&lt;/p&gt;
+
+&lt;p&gt;En entreprenant des modifications, j’en ai également profité pour rallonger les dos, devant et manches. En effet je suis grande et mon livre m’a donné envie de retoucher tout ce que je pouvais pour réellement adapter le gilet à ma morphologie.&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;Un étonnant jersey crème gaufré (enfin j’imagine). Aucune idée de comment ces chevrons sont réalisés sur le tissu mais il est très confortable et super original. Tissu très facile à couper, et le jersey m’a permis de découvrir encore une nouvelle fonctionnalité de ma machine : le point Stretch Stitch. Disponible sur ma machine (&lt;a href=&quot;http://amzn.to/2eKIPQM&quot;&gt;Janome Easy Jean&lt;/a&gt;) elle permet de réaliser des points extensibles : consommateur de fil, oui, mais parfait pour un vêtement en jersey.&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/gilet-monceau/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/gilet-monceau/detail2.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/gilet-monceau/detail3.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/gilet-monceau/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/gilet-monceau/detail5.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/gilet-monceau/detail6.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Thu, 07 Sep 2017 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/gilet-monceau/</link>
 				<guid isPermaLink="true">http://localhost:4000/gilet-monceau/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/gilet-monceau/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/gilet-monceau/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/gilet-monceau/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/gilet-monceau/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 			<item>
 				<title>Robe kimono</title>
 				
-				<description>&lt;p&gt;Cette robe est l’une de mes premières réalisations depuis que je me suis remise à la couture il y a quelques années. Elle a été la première d’une longue liste et c’est pourquoi je trouvais important de la partager en premier. Elle m’a montrée de quoi j’étais capable et le résultat m’a encouragé à continuer.&lt;/p&gt;
+        <description>
+          &lt;p&gt;Cette robe est l’une de mes premières réalisations depuis que je me suis remise à la couture il y a quelques années. Elle a été la première d’une longue liste et c’est pourquoi je trouvais important de la partager en premier. Elle m’a montrée de quoi j’étais capable et le résultat m’a encouragé à continuer.&lt;/p&gt;
 
-&lt;p&gt;</description>
+&lt;p&gt;
+          
+          
+            &lt;img src=&quot;http://localhost:4000/assets/photos//robe-kimono/main.jpg&quot; class=&quot;main_photo&quot;/&gt;
+          
+          &lt;/p&gt;
+
+&lt;h2 id=&quot;patron&quot;&gt;Patron&lt;/h2&gt;
+
+&lt;p&gt;Le patron provient d’un livre “&lt;a href=&quot;http://amzn.to/2xSmzwJ&quot;&gt;Dressing Chic&lt;/a&gt;” dans lequel plusieurs modèles sont vraiment top et très abordable en niveau débutant. Ce patron est simple mais avec un super résultat. Tout est bien pensé, de la ceinture cousue dans la taille, jusqu’aux discrètes coutures de côté qui permettent de ne pas dévoiler ses sous vêtements dès qu’on lève un bras. Bref peu de temps passé pour un super résultat.&lt;/p&gt;
+
+&lt;h2 id=&quot;tissu&quot;&gt;Tissu&lt;/h2&gt;
+
+&lt;p&gt;Le tissu est un polyester noir et blanc acheté à l’époque au magasin &lt;a href=&quot;https://www.tissusreine.com/&quot;&gt;Reine&lt;/a&gt;. Un peu inquiète au début du tissu glissant, il s’est avéré au final très facile à travailler. Je réutiliserai sans aucun doute le patron avec un tissu type coton ou viscose pour une petite robe de tous les jours .&lt;/p&gt;
+
+
+
+          
+          
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-kimono/detail1.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-kimono/detail2.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-kimono/detail3.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-kimono/detail4.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-kimono/detail5.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-kimono/detail6.png&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                    &lt;div class=&quot;row single_photo&quot;&gt;
+                      &lt;img src=&quot;http://localhost:4000//assets/photos/robe-kimono/detail7.jpg&quot; /&gt;
+                    &lt;/div&gt;
+                  
+                
+            
+                
+                  
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          
+        </description>
 				<pubDate>Sun, 20 Nov 2016 00:00:00 +0100</pubDate>
 				<link>http://localhost:4000/robe-kimono/</link>
 				<guid isPermaLink="true">http://localhost:4000/robe-kimono/</guid>
-        <media:thumbnail url="http://ps-made.com/assets/photos/robe-kimono/main.jpg" />
+        <media:thumbnail url="http://localhost:4000/assets/photos/robe-kimono/main.jpg" />
+        <enclosure url="http://localhost:4000/assets/photos/robe-kimono/main.jpg" type="image/jpeg" />
+        <media:content url="http://localhost:4000/assets/photos/robe-kimono/main.jpg" medium="image">
+          <media:title type="html">main</media:title>
+        </media:content>
 			</item>
 		
 	</channel>
