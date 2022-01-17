@@ -29,7 +29,7 @@ layout: default
 
 <h2 class="home_subtitles" id="realisations">Créations & Inspirations récentes</h2>
 <div class="container posts">
-  {% assign my_posts = site.posts | where: 'fav', false %}
+  {% assign my_posts = site.posts | where: 'fav', false | where: 'visible', true %}
   {% for post in my_posts %}
     {% assign step = forloop.index | modulo: 2 %}
     {% if step == 1 %}
