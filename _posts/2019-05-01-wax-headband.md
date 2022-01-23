@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wax power
-hook: "Petite cousette facile et rapide : le headband avec le tuto des Coupons de Saint Pierre."
+hook: "Petite cousette facile et rapide : le headband (en Wax, ou pas) avec le tuto des Coupons de Saint Pierre."
 ---
 
 Il y a quelques temps une amie m’a rapporté du tissu wax avec lequel j’ai fait plusieurs petites choses. La grande nouveauté pour moi : le headband.
