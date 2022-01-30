@@ -2,7 +2,6 @@
 layout: post
 title: Blouson aviateur
 hook: "Je vous partage ici ma réalisation la plus complexe à ce jour : un blouson aviateur en faux cuir et fausse fourrure. Un montage long et compliqué, mais je suis fière du résultat !"
-visible: false
 ---
 
 L’histoire de ce blouson a débuté avec l’achat d’une fausse fourrure imitation peau de mouton aux [Coupons de Saint Pierre][1]. J’ai cherché pendant un petit moment le modèle de blouson que j’avais en tête avant de tomber sur le patron [Carly Aviator Jacket][2] de chez [Style Arc][3]. Une marque de patron alors inconnue pour moi, mais qui vaut le détour pour ce blouson.
