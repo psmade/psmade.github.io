@@ -56,7 +56,7 @@ Ici le modèle est parfait pour ça, mais j’ai eu un peu de mal avec les expli
 [1]:	https://www.maison-fauve.com/blogs/tutoriel/camelia-le-pas-a-pas
 [2]:	https://www.maison-fauve.com/
 [3]: 	https://www.slow-sunday-paris.com/product-page/pdf-vega
-[4]:	slow-sunday-paris.com
+[4]:	https://www.slow-sunday-paris.com/
 [5]: https://www.sacres-coupons.com/
 [6]: https://www.merceriedecharonne.com/
 [7]: https://www.tissusreine.com/
