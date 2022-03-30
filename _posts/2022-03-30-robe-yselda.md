@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robe Yselda et toile Ramie
-hook: Quand les exercices de la formation au CAP sont des modèles sympas que tu peux réaliser à ta taille, on en profites bien entendu !
+hook: Quand les exercices de la formation au CAP sont des modèles sympas que tu peux réaliser à ta taille, on en profite bien entendu !
 ---
 
 Je vous partage ici une des réalisations de ma préparation au CAP Métier de la Mode Vêtement Flou. J’ai suivi la formation de l’organisme [Rêve à Soie][1], avec le livre [« Passez votre CAP Couture avec Artesane.com »][2]. Le programme est découpé en modules mensuels, avec un vêtement complet à réaliser chaque mois. La robe Yselda était celui du mois de novembre. 
