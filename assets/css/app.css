@@ -270,6 +270,10 @@ nav a:hover {
   line-height: 22px;
 }
 
+.after_break img {
+  width: 100%;
+}
+
 .single_post li{
   font-size: 15px;
   line-height: 22px;
