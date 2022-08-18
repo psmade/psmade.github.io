@@ -34,10 +34,12 @@ $(document).ready(function() {
         comment_website: $("#comment_website").val(),
       },
       beforeSend: function() {
-        $("#comment_form").css("opacity: 0.6;");
+        $("#submit_comment").hide()
+        $("#submit_loading").show()
       },
       complete: function() {
-        $("#comment_form").css("");
+        $("#submit_comment").show()
+        $("#submit_loading").hide()
       },
       dataType: "html",
       success: function (response) {

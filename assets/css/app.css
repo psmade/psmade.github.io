@@ -378,7 +378,7 @@ input[type=email], input[type=text] {
   box-sizing: border-box;
 }
 
-input[type=submit] {
+input[type=submit], #submit_loading {
   width: 200px;
   padding: 8px 20px;
   margin: 8px 0;
@@ -386,6 +386,13 @@ input[type=submit] {
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+  background-color: #eee;
+  font-size: 14px;
+  text-align: center;
+}
+input[type=submit]:hover {
+  border: 1px solid #bbb;
+  background-color: #ddd;
 }
 
 textarea {
