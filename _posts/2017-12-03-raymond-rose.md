@@ -2,7 +2,6 @@
 layout: post
 title: Manteau Raymond en laine
 hook: "Première réalisation République du Chiffon : Raymond, un manteau à grandes poches et manches raglans. Ce ne sera pas le dernier modèle de cette marque !"
-fav: true
 ---
 
 J’ai commandé le patron de ce manteau chez [République du chiffon][1] l’année dernière. Pour ma première réalisation de cette marque, j’ai choisi [Raymond][2], un grand manteau pour l’hiver. Le col original permet de porter en hiver les grosses écharpes que j’affectionne tant.
