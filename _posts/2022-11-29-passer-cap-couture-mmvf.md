@@ -119,9 +119,10 @@ C’est un point super important, surtout quand on s’engage dans une formation
 Pour la théorie, je décide de suivre les cours le soir en semaine avec des sessions de 2 à 3h. La pratique est plus difficile à morceler, surtout avec la mise en route : sortir la table à repasser, faire de la place, brancher, enfiler et régler la machine à coudre… Découper ce temps en petites sessions de 2h ne me parait pas du tout une bonne idée. Je décide donc de demander 1 jour de congé par semaine pendant toute la durée de ma formation ! Ça peut paraître un peu fou, mais j’en parle à mon employeur et j’ai des jours disponibles. L’idée ne l’inquiète pas alors je fonce : de septembre à juin, je n’ai pas travaillé les jeudis ! 
 
 Est-ce que j’ai réussi à mettre tout ça en place ? Et oui ! Et franchement pendant cette partie de l’année, j’ai attendu le jeudi avec impatience car je savais que c’était ma journée, seule à la maison, à coudre : le pied ! Au final je me suis organisée chaque semaine : 
-•	2 sessions de 2h de cours théoriques le soir 
-•	1 journée complète de pratique : le jeudi
-•	½ journée le weekend pour finir éventuellement des cours ou bien revoir une technique
+
+-	2 sessions de 2h de cours théoriques le soir 
+-	1 journée complète de pratique : le jeudi
+-	½ journée le weekend pour finir éventuellement des cours ou bien revoir une technique
 
 Tout cela a demandé que je puisse prendre des jours avec mon travail mais aussi une organisation familiale qui me permette de me préparer au CAP pendant ½ journée chaque weekend. Le soutien des proches, moralement mais aussi sur le côté pratique : c’est super important !
 
@@ -135,7 +136,7 @@ Le pied de la machine a des dimensions spécifiques qui rend les piqûres nervur
 
 Pour l’enfilage il suffit d’avoir vu quelques piqueuses plates différentes, mieux d’en avoir enfilée une soi-même. [Artesane][3] et [Rêve à Soie][10] ont une [vidéo de démonstration][15] d’une piqueuse plate qui explique tout ce que vous devez savoir.
 
-Pour en essayer une, j’ai pris un cours au [Hall couture][16]. C’est un lieu à Paris où on peut réserver des heures pour utiliser des machines industrielles et même avoir un cours. Ça permet de voir l’animal en vrai et de l’enfiler au moins une fois toute seule. 
+Pour en essayer une, j’ai pris un cours au [Hall couture][16]. C’est un lieu à Paris où on peut réserver des heures pour utiliser des machines industrielles et même avoir un cours. Ça permet de voir l’animal en vrai et de l’enfiler au moins une fois toute seule.
  
 ## 5. Les inscriptions
 
