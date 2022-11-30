@@ -137,7 +137,7 @@ Le pied de la machine a des dimensions spécifiques qui rend les piqûres nervur
 Pour l’enfilage il suffit d’avoir vu quelques piqueuses plates différentes, mieux d’en avoir enfilée une soi-même. [Artesane][3] et [Rêve à Soie][10] ont une [vidéo de démonstration][15] d’une piqueuse plate qui explique tout ce que vous devez savoir.
 
 Pour en essayer une, j’ai pris un cours au [Hall couture][16]. C’est un lieu à Paris où on peut réserver des heures pour utiliser des machines industrielles et même avoir un cours. Ça permet de voir l’animal en vrai et de l’enfiler au moins une fois toute seule.
- 
+
 ## 5. Les inscriptions
 
 Les inscriptions à l’épreuve en candidat libre commencent assez tôt dans l’année scolaire. Les dates dépendent des académies, mais c’est souvent aux alentours d’octobre / début novembre. Pour l’académie Paris/Créteil/Versailles dont je fais partie, tout se fait en ligne. 
