@@ -50,7 +50,7 @@ Ce qui est intéressant, c’est que contrairement à d’autres formations (typ
 
 ### Le [CPF][6] (Compte Personnel de Formation)
 
-Le plus gros avantage de passer l’examen, pour moi en tout cas, c’est de pouvoir bénéficier du [CPF][6] pour la formation. On a tous un [CPF][6] et le mien commençait à avoir pas mal d’heures non utilisées… Qui dit examen, dit organismes de formation référencés sur la plateforme CPF, et donc formation prise en charge par vos heures disponibles. 
+Le plus gros avantage de passer l’examen, pour moi en tout cas, c’est de pouvoir bénéficier du [CPF][6] pour la formation. On a presque tous un [CPF][6] et le mien commençait à avoir pas mal d’heures non utilisées… Qui dit examen, dit organismes de formation référencés sur la plateforme CPF, et donc formation prise en charge par vos heures disponibles. 
 
 De mon côté j’avais assez d’heures sur mon compte pour payer l’intégralité de la formation, plus un stage de préparation à l’examen de 3 jours. Alors si en contrepartie il faut passer l‘examen… pas de souci : je fonce !
  
