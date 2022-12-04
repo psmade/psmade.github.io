@@ -3,7 +3,7 @@ $(document).ready(function() {
 
   if($("#comment_form_wrapper").length > 0) {
     $.ajax({
-      url: baseUrl + "comments/",
+      url: baseUrl + "comments/psmade/",
       type: "GET",
       crossDomain: true,
       data: { url: window.location.pathname },
@@ -23,7 +23,7 @@ $(document).ready(function() {
   $("#comment_form").on("submit", function(e) {
     e.preventDefault()
     $.ajax({
-      url: baseUrl + "comments/",
+      url: baseUrl + "comments/psmade/",
       type: "POST",
       crossDomain: true,
       data: {
