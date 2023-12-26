@@ -25,8 +25,12 @@ layout: default
   </div>
 </div>
 
-<div>
-    <img src="{{ BASE_PATH }}/assets/photos/{{ page.url }}main.jpg" class="main_photo"/>
+<div class="main_photo_container">
+  {% if page.smallmain %}
+    <img src="{{ BASE_PATH }}/assets/photos/{{ page.url }}main.jpg" class="main_photo main_photo_small"/>
+  {% else %}
+    <img src="{{ BASE_PATH }}/assets/photos/{{ page.url }}main.jpg" class="main_photo main_photo_large"/>
+  {% endif %}
 </div>
 
 <div class="container ">

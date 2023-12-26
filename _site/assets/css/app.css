@@ -259,10 +259,20 @@ nav a:hover {
   max-width: 800px;
 }
 
+.main_photo_container {
+  padding: 16px;
+}
 .main_photo{
-  max-width: 920px;;
   margin: auto;
   display: block;
+}
+
+.main_photo_large {
+  max-width: 920px;;
+}
+
+.main_photo_small{
+  max-width: 600px;
 }
 
 .single_post p{
