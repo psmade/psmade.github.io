@@ -1,4 +1,0 @@
-Sitemap: http://ps-made.com/sitemap.xml
-
-User-agent: *
-Allow: /
